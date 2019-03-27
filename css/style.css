@@ -1,0 +1,39 @@
+/*
+Error: Invalid CSS after "@import "reset"": expected "{", was ";"
+        on line 8 of /Users/mikegajda/Documents/Projects/mikegajda.github.io/style.scss
+
+3: 
+4: //
+5: // IMPORTS
+6: //
+7: 
+8: @import "reset";
+9: @import "variables";
+10: // Syntax highlighting @import is at the bottom of this file
+11: 
+12: /**************\/
+13: /* BASE RULES *\/
+
+Backtrace:
+/Users/mikegajda/Documents/Projects/mikegajda.github.io/style.scss:8
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:1179:in `expected'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:1115:in `expected'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:1110:in `tok!'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:654:in `block'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:647:in `ruleset'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:673:in `block_child'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:663:in `block_contents'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:123:in `stylesheet'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:39:in `parse'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:403:in `_to_tree'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:278:in `render'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/sass_scss.rb:423:in `run'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/sass_scss.rb:63:in `process_result'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/base.rb:52:in `parse'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/base.rb:19:in `parse!'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/bin/scss:13:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid CSS after \"@import \"reset\"\": expected \"{\", was \";\"\A         on line 8 of /Users/mikegajda/Documents/Projects/mikegajda.github.io/style.scss\A \A 3: \A 4: //\A 5: // IMPORTS\A 6: //\A 7: \A 8: @import \"reset\";\A 9: @import \"variables\";\A 10: // Syntax highlighting @import is at the bottom of this file\A 11: \A 12: /**************/\A 13: /* BASE RULES */"; }
