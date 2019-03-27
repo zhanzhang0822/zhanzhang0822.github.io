@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-03-27T23:44:23+01:00</updated><id>/feed.xml</id><title type="html">Zhang Zhan</title><entry><title type="html">Thirstea</title><link href="/2016/12/12/thirstea.html" rel="alternate" type="text/html" title="Thirstea" /><published>2016-12-12T00:00:00+01:00</published><updated>2016-12-12T00:00:00+01:00</updated><id>/2016/12/12/thirstea</id><content type="html" xml:base="/2016/12/12/thirstea.html">&lt;p&gt;Thirstea is a tea plant that feeds on the attention it gets on social media. The project is made up of a plant of tea tree and an irrigation system that is hooked to a Twitter bot and a webcam. The twitter bot will tweet about the growth of the plant every day with photos of the plant.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/195745514&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/195745514&quot;&gt;Thirstea&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Video filmed and editted by Zhang Zhan&lt;/p&gt;
+
+&lt;p&gt;Project by Richard Lewei Huang and Zhang Zhan&lt;/p&gt;
+
+&lt;p&gt;Music: Bon Iver - 8 (circle)&lt;/p&gt;
+
+&lt;p&gt;When the number of new followers gained that day exceeds 3 – we opted to give the plant water for every single follower it gets. The program checks for new followers every 10 minutes, and runs the motor for 1 minute for each follower gained. In this way the program can be more responsive to changes on social media.&lt;/p&gt;
+
+&lt;p&gt;We purchased a second-hand HP desktop computer at a seedy location near the Baoshan Rd electronics market with 139 kuai (20 dollars). To implement the idea we program the arduino to communicate with whatever it connects to via serial. On the computer side, we opted to use Python for its versatility and its wealth of libraries that are ready-to-use. We used Twython to communicate with Twitter, PySerial to talk with the Arduino with serial.&lt;/p&gt;
+
+&lt;p&gt;Python sketch here: &lt;a href=&quot;http://pastebin.com/81TD8zd8&quot; target=&quot;_blank&quot;&gt;http://pastebin.com/81TD8zd8&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We used an Android phone kindly donated by luis m-n as a webcam. The phone, equipped with IP Webcam app, serves a livestream from its IP address on the WiFi network. We connected the computer onto the same WiFi so that both can communicate.&lt;/p&gt;
+
+&lt;p&gt;We built a rectangle frame to be placed on the ground, and one arm was installed vertically at one of the four corners to support another horizontal arm with a drilled hole at the end so that water tube could fit the hole and water can drip from right above the tea tree plant.&lt;/p&gt;
+
+&lt;p&gt;We envision Thirstea as both a social commentary on the attention-seeking behaviour on social media and a social experiment to see how many followers we can get / how long the tree can live off social media attention.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/thirstea-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/thirstea-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/thirstea-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/thirstea-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/thirstea-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/thirstea-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/thirstea-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/thirstea-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/thirstea-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/thirstea-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/thirstea-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">Thirstea is a tea plant that feeds on the attention it gets on social media. The project is made up of a plant of tea tree and an irrigation system that is hooked to a Twitter bot and a webcam. The twitter bot will tweet about the growth of the plant every day with photos of the plant.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/thirstea-featured-image.jpg" /></entry><entry><title type="html">A Song Without Words</title><link href="/2016/12/12/a-song-without-words.html" rel="alternate" type="text/html" title="A Song Without Words" /><published>2016-12-12T00:00:00+01:00</published><updated>2016-12-12T00:00:00+01:00</updated><id>/2016/12/12/a-song-without-words</id><content type="html" xml:base="/2016/12/12/a-song-without-words.html">&lt;p&gt;A Song Without Words is an interactive dance piece using Kinect with projection of visuals created according to the body movement sensed by Kinect.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/195400876&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/195400876&quot;&gt;A Song Without Words&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dancer and choreographer: Ann Yang&lt;/p&gt;
+
+&lt;p&gt;Music: Sandy Lam - 无言歌&lt;/p&gt;
+
+&lt;p&gt;Filmed by Jingyi Sun, Maggie Walsh and Zhang Zhan&lt;/p&gt;
+
+&lt;p&gt;Editted by Zhang Zhan&lt;/p&gt;
+
+&lt;p&gt;This dance piece is a visual response to the song, 无言歌, by Sandy Lam. My friend, Ann Yang, a talented dancer, choreographed this dance under my general guideline. There are four stages in the dance performance–birth, accumulation, explosion, and decay. Each stage is represented by different visual effects such as point cloud, particle explosion system, particle ring, and particles collapsing. The main point cloud figure is the live visual resemblance of the dancer, and the dancer also react to the visuals by modifying her dance routines based on what the visual is created by her previous movements and positions.&lt;/p&gt;
+
+&lt;p&gt;Thanks to Prof. JH Moon for letting me use his Mac Pro, keyboard, track pad, his screen, and the speaker. The visuals are created in a processing sketch with a control panel. Visuals are sent to Arena with syphon, but the control panel is not sent to the Arena so that I can do live control including particle speed, color gradience, transition over the visuals. A Kinect is used to sense the depth and capture the shape of the object within the sensing range. The explosion and particles is attracted by the closest point within the sensing area.&lt;/p&gt;
+
+&lt;p&gt;Special thanks to Prof. JH Moon, Jingyi Sun and Maggie Walsh.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/a-song-without-words-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">A Song Without Words is an interactive dance piece using Kinect with projection of visuals created according to the body movement sensed by Kinect.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/a-song-without-words-featured-image.jpg" /></entry><entry><title type="html">Above The Sea</title><link href="/2016/12/12/above-the-sea.html" rel="alternate" type="text/html" title="Above The Sea" /><published>2016-12-12T00:00:00+01:00</published><updated>2016-12-12T00:00:00+01:00</updated><id>/2016/12/12/above-the-sea</id><content type="html" xml:base="/2016/12/12/above-the-sea.html">&lt;p&gt;Project Demo: &lt;a href=&quot;/p5-above-the-sea/&quot; target=&quot;_blank&quot;&gt;Above The Sea – Shanghai&lt;/a&gt; (for a better experience, please open the link in Google Chrome)&lt;/p&gt;
+
+&lt;p&gt;Above The Sea translates weather forecast data(sea level and main weather condition) of a certain city into notes and chords and visualizes the data in a column system in p5. After being laser cut onto the clear acrylic board, the songs about the sea level and weather above the sea can be played on a record player.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/195638313&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/195638313&quot;&gt;Above The Sea&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Video filmed and editted by Zhang Zhan&lt;/p&gt;
+
+&lt;p&gt;Music: Bon Iver - 666 ʇ&lt;/p&gt;
+
+&lt;p&gt;This projects gets weather forecast data from the 5 day/3 hour forecast API from &lt;a href=&quot;http://openweathermap.org/api&quot; target=&quot;_blank&quot;&gt;OpenWeatherMap&lt;/a&gt;. Since the minimum unit of the data interval is 3 hours, the API gives me about 35-40 pairs of the sea level and main weather condition data. Each 3 hour interval represents one bar, and each bar has 8 beats of notes in membrane synth in one chord with a certain arrangement that represent main weather condition in that interval. There’s also a longer note created in FM synth representing the sea level. The API is live, which means it gets updated every 10 minutes(this interval is set in P5 so it can be changed easily).&lt;/p&gt;
+
+&lt;p&gt;With my professor Luisa’s help, I decided to map 4 main weather conditions received from the weather forecast API with notes in 4 different chords.&lt;/p&gt;
+
+&lt;p&gt;Clear – C major&lt;/p&gt;
+
+&lt;p&gt;Clouds – C minor&lt;/p&gt;
+
+&lt;p&gt;Rain – A minor&lt;/p&gt;
+
+&lt;p&gt;Snow – B minor&lt;/p&gt;
+
+&lt;p&gt;The sea level data aka the long note that lasts through one bar is mapped into a scale of C4, D4, E4, F4, G4, A4, B4, C5 note.&lt;/p&gt;
+
+&lt;p&gt;In order to preserve the songs, I opted to include &lt;a href=&quot;http://instructables.com/id/Laser-Cut-Record/?ALLSTEPS&quot; target=&quot;_blank&quot;&gt;laser cut records&lt;/a&gt; as part of the project since the idea itself is really fascinating and you can play it back anytime you want. I needed to record the piece first and then run it through the python program and processing sketch provided by the instructables post. However, I had to make some modifications such as the size of the records, the radius of the most inner grove, rpm, maximum size of the pdf files(since one song’s groves on one pdf will be way too much to be imported into illustrator, so I had to split them into 9 pdfs and then import them so that no groves will be missing.) I bought a record player on Taobao–230kuai–the cheapest but legitimate one I could find. I then did testing with a random song in three settings suggested by the post–frequency 5000, speed 100, dpi 1200, and power 12, 20 and 24. It turns out that power 20 one sounds the best.&lt;/p&gt;
+
+&lt;p&gt;Then I laser cut three music pieces I recorded on Dec 6 of three cities–New York, Prague, and Shanghai–where I lived since last year.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/above-the-sea-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After the laser cut process was done, I washed those three records with water and soap to get rid of all the tiny dust from the cutting processing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/above-the-sea-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Listen to the result in the video. :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/above-the-sea-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">Project Demo: Above The Sea – Shanghai (for a better experience, please open the link in Google Chrome)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/above-the-sea-featured-image.jpg" /></entry><entry><title type="html">Shy Mirror</title><link href="/2016/12/05/shy-mirror.html" rel="alternate" type="text/html" title="Shy Mirror" /><published>2016-12-05T00:00:00+01:00</published><updated>2016-12-05T00:00:00+01:00</updated><id>/2016/12/05/shy-mirror</id><content type="html" xml:base="/2016/12/05/shy-mirror.html">&lt;p&gt;Shy Mirror is the final project for Interactive Installation class created by Alexis Zerafa, Xiran Yang and me. Shy Mirror is a mirror that gently rotates 90 degrees when someone is in front of it, therefore the participant can not see his own reflection in the mirror.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/194319808&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/194319808&quot;&gt;Shy Mirror&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Filmed by Alexis Zerafa, Xiran Yang and Zhang Zhan&lt;/p&gt;
+
+&lt;p&gt;Editted by Alexis Zerafa&lt;/p&gt;
+
+&lt;p&gt;This project focuses on the narcissistic behaviors shared by common human beings. We would like to raise the participant’s self-awareness of narcissism by angling the mirror that people tend to walk up to and where they look at themselves. This action disables them from looking at themselves in the mirror and, instead, participants are forced to look at the reflection of others in the room. We like this idea because not only is the concept persuasive and easy to convey, but also the physical object is simplistic and relevant to a broad audience.&lt;/p&gt;
+
+&lt;p&gt;The interaction part of the project is as simple as the concept–an infrared range finder and a stepper motor are connected to an Arduino Uno (a micro controller). Once the reading of the infrared range finder is smaller than the threshold we set according to many rounds of testing, which means an object is detected within the searching range, the Arduino Uno will tell the attached stepper motor to rotate 90 degrees. Once the reading of the infrared becomes bigger than the threshold, it means no more objects can be detected within the searching range, so the mirror would reset to the initial position as the reverse process after given the command to do so from the Arduino Uno. Participants are not required to actively interact with any electronic components; they need only get closer to the mirror. We would like the action to happen instinctively with very limited guidance, and in this way, the result–rotation of the mirror– triggered by the action would enhance the overall experience since it is unpredictable and, therefore, surprising.&lt;/p&gt;
+
+&lt;p&gt;A wood box frame(40x100cm) covered with white fabric functions as the base of the entire project, inside which the circuit hides. A thin but strong wood board drilled onto the fours legs of the wood box is the top of the box, and the stepper motor is placed in the center of the top with four screws drilled through the board and into the four mounting holes in the motor. Only the raft sticks out of the top of the box and the motor body is underneath the top hidden behind the white fabric.The mirror, a 2mm acrylic board(40x100cm) with a mirror-like reflective surface that has a wood frame in the back, is hanging from the top part of a bigger frame that stands on the box so that there is no weight resting on the raft. A small wood piece sticks out from the bottom of the mirror frame and touch nearly half of the raft. A paper clip and some clear tape are used to tie the raft and the small wood piece so they do not slip, and the stepper motor can rotate the mirror smoothly. The infrared range finder is installed on the top wood bar that is facing the participants.&lt;/p&gt;
+
+&lt;p&gt;The project is truly portable and easily reassembled due to the use of screws and lumber. It needs one socket nearby to power the circuit. We placed the project in a way that it was facing a white wall. Therefore the space in front of the range finder could be less crowded with a more still and pure background, which would definitely maintain the performance of the sensor at a good level. Even though the infrared range finder works well with normal room light, the room where Shy Mirror is exhibited should have as little bright sunlight as possible since sunlight would decrease the accuracy of the range finder.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/shy-mirror-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/shy-mirror-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/shy-mirror-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/shy-mirror-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/shy-mirror-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/shy-mirror-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/shy-mirror-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/shy-mirror-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/shy-mirror-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/shy-mirror-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/shy-mirror-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Photo credits: Xiran Yang
+&lt;img src=&quot;/images/shy-mirror-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/shy-mirror-13.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/shy-mirror-14.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/shy-mirror-15.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">Shy Mirror is the final project for Interactive Installation class created by Alexis Zerafa, Xiran Yang and me. Shy Mirror is a mirror that gently rotates 90 degrees when someone is in front of it, therefore the participant can not see his own reflection in the mirror.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/shy-mirror-featured-image.jpg" /></entry><entry><title type="html">Pop &amp;amp; Poem Typewriter</title><link href="/2016/10/04/pop-and-poem-typewriter.html" rel="alternate" type="text/html" title="Pop &amp; Poem Typewriter" /><published>2016-10-04T00:00:00+02:00</published><updated>2016-10-04T00:00:00+02:00</updated><id>/2016/10/04/pop-and-poem-typewriter</id><content type="html" xml:base="/2016/10/04/pop-and-poem-typewriter.html">&lt;p&gt;Project Demo: &lt;a href=&quot;/p5-pop-and-poem-typewriter/&quot; target=&quot;_blank&quot;&gt;Pop &amp;amp; Poem Typewriter&lt;/a&gt; (for a better experience, please open the link in Google Chrome)&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/190374026&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/190374026&quot;&gt;Pop &amp;amp; Poem Typewriter&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pop &amp;amp; Poem Typewriter is my midterm project for Code of Music class at NYU Shanghai. Each of the 40 Keys including A-Z(26), 0-9(10), Delete, Period, Comma, Space is linked to a small wav clip cut out from a pop song where the singer(s) spell out the letter or word. As you type a poem, a song made of those corresponding small clips will be triggered at the same time. I was looking to translate text into music to form the link between visual and aural via the contrast between letters in poem and pop music sound clips. To be honest, this project doesn’t have to involve poems, thus any text would trigger a piece of musical collage of short sound clips. I hope people could get a brand new experience of typing with the aural feedback that’s seldom happening when people type except for the monotone keyboard sound or the sounds of fingers hitting the buttons.&lt;/p&gt;
+
+&lt;p&gt;Song list:&lt;/p&gt;
+
+&lt;p&gt;A - The Jackson 5 - ABC&lt;/p&gt;
+
+&lt;p&gt;B - The Black Eyed Peas - Imma Be&lt;/p&gt;
+
+&lt;p&gt;C - Wiz Khalifa - See You Again ft. Charlie Puth&lt;/p&gt;
+
+&lt;p&gt;D - Fergie - Fergalicious&lt;/p&gt;
+
+&lt;p&gt;E - Macklemore &amp;amp; Ryan Lewis - Can’t Hold Us feat. Ray Dalton&lt;/p&gt;
+
+&lt;p&gt;F - Noah And The Whale - L.I.F.E.G.O.E.S.O.N.&lt;/p&gt;
+
+&lt;p&gt;G - Girls’ Generation(소녀시대) - Gee&lt;/p&gt;
+
+&lt;p&gt;H - Jay-Z - Izzo (H.O.V.A.)&lt;/p&gt;
+
+&lt;p&gt;I - Selena Gomez &amp;amp; The Scene - Love You Like A Love Song&lt;/p&gt;
+
+&lt;p&gt;J - Jason Derulo - Don’t Wanna Go Home&lt;/p&gt;
+
+&lt;p&gt;K - The Script - If You See Kay&lt;/p&gt;
+
+&lt;p&gt;L - Madonna - Give Me All Your Luvin’ (Feat. M.I.A. and Nicki Minaj)&lt;/p&gt;
+
+&lt;p&gt;M - Village People - YMCA&lt;/p&gt;
+
+&lt;p&gt;N - Ke$ha - Dinosaur&lt;/p&gt;
+
+&lt;p&gt;O - Nicki Minaj - Anaconda&lt;/p&gt;
+
+&lt;p&gt;P - Aretha Franklin - Respect&lt;/p&gt;
+
+&lt;p&gt;Q - 5 Seconds Of Summer - 18&lt;/p&gt;
+
+&lt;p&gt;R - Paramore - The Only Exception&lt;/p&gt;
+
+&lt;p&gt;S - Gwen Stefani - Hollaback Girl&lt;/p&gt;
+
+&lt;p&gt;T - Justice - D.A.N.C.E.&lt;/p&gt;
+
+&lt;p&gt;U - Katy Perry - Hot N Cold&lt;/p&gt;
+
+&lt;p&gt;V - Nat King Cole - L-O-V-E&lt;/p&gt;
+
+&lt;p&gt;W - Beyoncé - World Wide Woman&lt;/p&gt;
+
+&lt;p&gt;X - deadmau5 ft. Gerard Way - Professional Griefers&lt;/p&gt;
+
+&lt;p&gt;Y - MAGIC! - Rude&lt;/p&gt;
+
+&lt;p&gt;Z - Spice Girls - Wannabe&lt;/p&gt;
+
+&lt;p&gt;1 - Drake - One Dance (feat. Wizkid &amp;amp; Kyla)&lt;/p&gt;
+
+&lt;p&gt;2 - Justin Bieber - Sorry&lt;/p&gt;
+
+&lt;p&gt;3 - Britney Spears - 3&lt;/p&gt;
+
+&lt;p&gt;4 - Feist - 1234&lt;/p&gt;
+
+&lt;p&gt;5 - The Proclaimers - I’m Gonna Be (500 Miles)&lt;/p&gt;
+
+&lt;p&gt;6 - Far East Movement - Like A G6 ft. The Cataracs, DEV&lt;/p&gt;
+
+&lt;p&gt;7 - Lukas Graham - 7 Years&lt;/p&gt;
+
+&lt;p&gt;8 - Lady Gaga - Monster&lt;/p&gt;
+
+&lt;p&gt;9 - Lana Del Rey - Summertime Sadness&lt;/p&gt;
+
+&lt;p&gt;0 - Eminem - Space Bound&lt;/p&gt;
+
+&lt;p&gt;Delete - Maroon 5 - Unkiss Me&lt;/p&gt;
+
+&lt;p&gt;Period - French Montana - Figure it Out ft. Kanye West, Nas&lt;/p&gt;
+
+&lt;p&gt;Comma - Coldplay - Every Teardrop Is a Waterfall&lt;/p&gt;
+
+&lt;p&gt;Space - Taylor Swift - Blank Space&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">Project Demo: Pop &amp;amp; Poem Typewriter (for a better experience, please open the link in Google Chrome)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pop-and-poem-typewriter-featured-image.jpg" /></entry><entry><title type="html">Project 1933</title><link href="/2016/10/03/project-1933.html" rel="alternate" type="text/html" title="Project 1933" /><published>2016-10-03T00:00:00+02:00</published><updated>2016-10-03T00:00:00+02:00</updated><id>/2016/10/03/project-1933</id><content type="html" xml:base="/2016/10/03/project-1933.html">&lt;p&gt;Project 1933, an interactive installation built for Interactive Installation class at NYU Shanghai, is responding to 1933 Slaughterhouse in Hongkou District, Shanghai.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/188636034&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/188636034&quot;&gt;Project 1933&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Video editted by Kevin Pham&lt;/p&gt;
+
+&lt;p&gt;Filmed by Zhang Zhan&lt;/p&gt;
+
+&lt;p&gt;Project by Dyadra Saulsberry, Xiran Yang, Kevin Pham and Zhang Zhan&lt;/p&gt;
+
+&lt;p&gt;1933 video credit: &lt;a href=&quot;https://www.youtube.com/watch?v=bRKGEOmG9tM&quot; target=&quot;_blank&quot;&gt;youtube.com/watch?v=bRKGEOmG9tM&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Music: &lt;a href=&quot;https://soundcloud.com/odesza/light-instrumental?in=odesza/sets/in-return-deluxe-edition-disc&quot; target=&quot;_blank&quot;&gt;Lights (Instrumental)&lt;/a&gt; by ODESZA&lt;/p&gt;
+
+&lt;p&gt;The slaughterhouse was designed by a UK designer in pre-communist Shanghai. The building now has been turned into a commercial hub for creative industries led by a local company owned by the government. Although the space was utilized as a factory and cold storage space after being abandoned as an actual slaughterhouse(correction to our statement in class that the slaughterhouse was never used for slaughter, http://www.lacasapark.com/la/2011/11/the-last- slaughterhouse-on-earth-1933-shanghai/), its unique architecture style where each floor is connected to an outer shell by interlocking ramps(“cattle walks”), bridges, and spiral staircases designed to control the flow of both people and cattle being processed through the building has become a legacy that has brought more and more contemporary elements into this space.&lt;/p&gt;
+
+&lt;p&gt;Project 1933 contains three main parts – IV bucket filled with blood while blood dripping from the lower end, a black box covered with grass on top and twined by grey tube where flows the blood collected by the funnel within the grass, and a pond surrounding the box inside which human figure kneel down. Blood echoes the original usage of this space. Black box is a simplified symbol of the space itself, however, the cattle walks that are going up gradually along the walls of the building are not simplified; instead, the tube twining the box represents since our common interest of the space is the carved cattle walks. The pond echoes with the actual pond at the space and functions as a symbol of a pool of consumerism.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/project-1933-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/project-1933-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/project-1933-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/project-1933-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/project-1933-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/project-1933-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/project-1933-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/project-1933-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/project-1933-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/project-1933-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/project-1933-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/project-1933-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">Project 1933, an interactive installation built for Interactive Installation class at NYU Shanghai, is responding to 1933 Slaughterhouse in Hongkou District, Shanghai.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/project-1933-featured-image.jpg" /></entry><entry><title type="html">Airing Dirty Laundry</title><link href="/2016/10/01/airing-dirty-laundry.html" rel="alternate" type="text/html" title="Airing Dirty Laundry" /><published>2016-10-01T00:00:00+02:00</published><updated>2016-10-01T00:00:00+02:00</updated><id>/2016/10/01/airing-dirty-laundry</id><content type="html" xml:base="/2016/10/01/airing-dirty-laundry.html">&lt;p&gt;Airing Dirty Laundry is an installation that displays live streamed tweets containing the word “dirty” or “clean” via projection on a quilt made of 15 pairs of white underwear.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/189190892&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/189190892&quot;&gt;Airing Dirty Laundry&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This project echoes the English idiom “airing your dirty laundry”, which means to talk about things (usually a problem or dispute) that should be kept private. Tweets containing “dirty” appear first on the quilt with an increasing speed, and color of the tweets multiply when they overlap, which applies a dirty-looking color onto the pure white surface. After participants hit the space bar, tweets containing “clean” in white color will show up and take over the surface to “wash out” the “dirt”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/airing-dirty-laundry-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Built for Kinetic Interface Design class at NYU Shanghai.&lt;/p&gt;
+
+&lt;p&gt;Tools: twitter4j in Processing, Syphon, MadMapper, projector, 15 pairs of white underwear, cloth rack&lt;/p&gt;
+
+&lt;p&gt;Speical thanks to Professor JH Moon and Joseph Modirzadeh&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">Airing Dirty Laundry is an installation that displays live streamed tweets containing the word “dirty” or “clean” via projection on a quilt made of 15 pairs of white underwear.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/airing-dirty-laundry-featured-image.jpg" /></entry><entry><title type="html">Shanghai Mercedes-Benz Arena Visual Identity Guide</title><link href="/2016/08/01/mba-visual-identity-guide.html" rel="alternate" type="text/html" title="Shanghai Mercedes-Benz Arena Visual Identity Guide" /><published>2016-08-01T00:00:00+02:00</published><updated>2016-08-01T00:00:00+02:00</updated><id>/2016/08/01/mba-visual-identity-guide</id><content type="html" xml:base="/2016/08/01/mba-visual-identity-guide.html">&lt;p&gt;Visual identity guide proposal for Shanghai Mercedes-Benz Arena
+&lt;img src=&quot;/images/mba-visual-identity-guide-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-13.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-14.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-15.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-16.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-17.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-18.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-19.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-20.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-21.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-22.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-23.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-24.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-25.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-26.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-27.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-28.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-29.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/mba-visual-identity-guide-30.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="design" /><summary type="html">Visual identity guide proposal for Shanghai Mercedes-Benz Arena</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/mba-visual-identity-guide-featured-image.jpg" /></entry><entry><title type="html">Jay Chou Fan Interview @ Mercedes-Benz Arena</title><link href="/2016/07/02/jay-chou-fan-interview.html" rel="alternate" type="text/html" title="Jay Chou Fan Interview @ Mercedes-Benz Arena" /><published>2016-07-02T00:00:00+02:00</published><updated>2016-07-02T00:00:00+02:00</updated><id>/2016/07/02/jay-chou-fan-interview</id><content type="html" xml:base="/2016/07/02/jay-chou-fan-interview.html">&lt;p&gt;Jay Chou fan interview videos for Shanghai Mercedes-Benz Arena digital marketing purpose. These two videos received more than half a million views on Weibo in total.&lt;/p&gt;
+
+&lt;p&gt;Film and edit by Zhang Zhan.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/180747660&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/180747660&quot;&gt;Shanghai Mercedes-Benz Arena - Jay Chou Fan Interview #1&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/180749247&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/180749247&quot;&gt;Shanghai Mercedes-Benz Arena - Jay Chou Fan Interview #2&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="videos" /><summary type="html">Jay Chou fan interview videos for Shanghai Mercedes-Benz Arena digital marketing purpose. These two videos received more than half a million views on Weibo in total.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/jay-chou-fan-interview-featured-image.jpg" /></entry><entry><title type="html">Bilibili Fan Interview @ Mercedes-Benz Arena</title><link href="/2016/07/01/bilibili-fan-interview.html" rel="alternate" type="text/html" title="Bilibili Fan Interview @ Mercedes-Benz Arena" /><published>2016-07-01T00:00:00+02:00</published><updated>2016-07-01T00:00:00+02:00</updated><id>/2016/07/01/bilibili-fan-interview</id><content type="html" xml:base="/2016/07/01/bilibili-fan-interview.html">&lt;p&gt;Bilibili fan interview videos for Shanghai Mercedes-Benz Arena digital marketing purpose.&lt;/p&gt;
+
+&lt;p&gt;Film and edit by Zhang Zhan.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/181659266&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/181659266&quot;&gt;Shanghai Mercedes-Benz Arena - Bilibili Macro Link Fan Interview&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="videos" /><summary type="html">Bilibili fan interview videos for Shanghai Mercedes-Benz Arena digital marketing purpose.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/bilibili-fan-interview-featured-image.jpg" /></entry></feed>

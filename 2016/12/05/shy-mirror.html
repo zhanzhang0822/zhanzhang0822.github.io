@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Shy Mirror – Zhang Zhan </title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="Shy Mirror is the final project for Interactive Installation class created by Alexis Zerafa, Xiran Yang and me. Shy Mirror is a mirror that gently rotates 90 degrees when someone is in front of it, therefore the participant can not see his own reflection in the mirror.
+
+" />
+    <meta property="og:description" content="Shy Mirror is the final project for Interactive Installation class created by Alexis Zerafa, Xiran Yang and me. Shy Mirror is a mirror that gently rotates 90 degrees when someone is in front of it, therefore the participant can not see his own reflection in the mirror.
+
+" />
+    
+    <meta name="author" content="Zhang Zhan" />
+
+    
+    <meta property="og:title" content="Shy Mirror" />
+    <meta property="twitter:title" content="Shy Mirror" />
+    
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Zhang Zhan - " href="/feed.xml" />
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
+
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+
+    <script src="/jquery.jscroll.min.js"></script>
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <div class="site-info">
+            <h1 class="site-name"><a href="/">Zhang Zhan</a></h1>
+          </div>
+          <nav>
+            <li><a href="/tag/projects">Projects</a></li>
+            <li><a href="/tag/design">Design</a></li>
+            <li><a href="/tag/photography">Photography</a></li>
+            <li><a href="/tag/videos">Videos</a></li>
+            <li><a href="/info">Info</a></li>
+            <li><a href="/cv">CV</a></li>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container clearfix">
+      <article class="post article-single-page">
+  <h1>
+  		<a href="">Shy Mirror</a>
+      	<div class="time"> Winter 2016 </div>
+   </h1>
+
+  <div class="entry post-single-page">
+    <p>Shy Mirror is the final project for Interactive Installation class created by Alexis Zerafa, Xiran Yang and me. Shy Mirror is a mirror that gently rotates 90 degrees when someone is in front of it, therefore the participant can not see his own reflection in the mirror.</p>
+
+<iframe src="https://player.vimeo.com/video/194319808" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<p><a href="https://vimeo.com/194319808">Shy Mirror</a> from <a href="https://vimeo.com/user36907083">Zhang Zhan</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<p>Filmed by Alexis Zerafa, Xiran Yang and Zhang Zhan</p>
+
+<p>Editted by Alexis Zerafa</p>
+
+<p>This project focuses on the narcissistic behaviors shared by common human beings. We would like to raise the participant’s self-awareness of narcissism by angling the mirror that people tend to walk up to and where they look at themselves. This action disables them from looking at themselves in the mirror and, instead, participants are forced to look at the reflection of others in the room. We like this idea because not only is the concept persuasive and easy to convey, but also the physical object is simplistic and relevant to a broad audience.</p>
+
+<p>The interaction part of the project is as simple as the concept–an infrared range finder and a stepper motor are connected to an Arduino Uno (a micro controller). Once the reading of the infrared range finder is smaller than the threshold we set according to many rounds of testing, which means an object is detected within the searching range, the Arduino Uno will tell the attached stepper motor to rotate 90 degrees. Once the reading of the infrared becomes bigger than the threshold, it means no more objects can be detected within the searching range, so the mirror would reset to the initial position as the reverse process after given the command to do so from the Arduino Uno. Participants are not required to actively interact with any electronic components; they need only get closer to the mirror. We would like the action to happen instinctively with very limited guidance, and in this way, the result–rotation of the mirror– triggered by the action would enhance the overall experience since it is unpredictable and, therefore, surprising.</p>
+
+<p>A wood box frame(40x100cm) covered with white fabric functions as the base of the entire project, inside which the circuit hides. A thin but strong wood board drilled onto the fours legs of the wood box is the top of the box, and the stepper motor is placed in the center of the top with four screws drilled through the board and into the four mounting holes in the motor. Only the raft sticks out of the top of the box and the motor body is underneath the top hidden behind the white fabric.The mirror, a 2mm acrylic board(40x100cm) with a mirror-like reflective surface that has a wood frame in the back, is hanging from the top part of a bigger frame that stands on the box so that there is no weight resting on the raft. A small wood piece sticks out from the bottom of the mirror frame and touch nearly half of the raft. A paper clip and some clear tape are used to tie the raft and the small wood piece so they do not slip, and the stepper motor can rotate the mirror smoothly. The infrared range finder is installed on the top wood bar that is facing the participants.</p>
+
+<p>The project is truly portable and easily reassembled due to the use of screws and lumber. It needs one socket nearby to power the circuit. We placed the project in a way that it was facing a white wall. Therefore the space in front of the range finder could be less crowded with a more still and pure background, which would definitely maintain the performance of the sensor at a good level. Even though the infrared range finder works well with normal room light, the room where Shy Mirror is exhibited should have as little bright sunlight as possible since sunlight would decrease the accuracy of the range finder.</p>
+
+<p><img src="/images/shy-mirror-1.jpg" alt="_config.yml" />
+<img src="/images/shy-mirror-2.jpg" alt="_config.yml" />
+<img src="/images/shy-mirror-3.jpg" alt="_config.yml" />
+<img src="/images/shy-mirror-4.jpg" alt="_config.yml" />
+<img src="/images/shy-mirror-5.jpg" alt="_config.yml" />
+<img src="/images/shy-mirror-6.jpg" alt="_config.yml" />
+<img src="/images/shy-mirror-7.jpg" alt="_config.yml" />
+<img src="/images/shy-mirror-8.jpg" alt="_config.yml" />
+<img src="/images/shy-mirror-9.jpg" alt="_config.yml" />
+<img src="/images/shy-mirror-10.jpg" alt="_config.yml" />
+<img src="/images/shy-mirror-11.jpg" alt="_config.yml" /></p>
+
+<p>Photo credits: Xiran Yang
+<img src="/images/shy-mirror-12.jpg" alt="_config.yml" />
+<img src="/images/shy-mirror-13.jpg" alt="_config.yml" />
+<img src="/images/shy-mirror-14.jpg" alt="_config.yml" />
+<img src="/images/shy-mirror-15.jpg" alt="_config.yml" /></p>
+
+
+  </div>
+
+  <div class="PageNavigation">
+  
+    <a class="prev" href="/2016/12/12/a-song-without-words.html">&laquo; A Song Without Words</a>
+   
+  
+    <a class="next" href="/2016/10/04/pop-and-poem-typewriter.html">Pop & Poem Typewriter &raquo;</a>
+  
+</div>
+
+</article>
+
+    </div>
+
+    <!-- <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          
+
+
+
+<a href="https://github.com/barryclark/jekyll-now"><i class="svg-icon github"></i></a>
+
+
+
+
+<a href="https://www.twitter.com/jekyllrb"><i class="svg-icon twitter"></i></a>
+
+
+
+        </footer>
+      </div>
+    </div> -->
+        <script>
+        function hideNavigationElements() {
+          $('.PageNavigation').css("display", "none");
+        };
+
+        $('.posts').jscroll({
+          nextSelector: 'a.next',
+          debug: true,
+          contentSelector: '.posts',
+          callback: hideNavigationElements
+        });
+    
+    </script>
+
+    
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-89860025-1', 'auto');
+		ga('send', 'pageview', {
+		  'page': '/2016/12/05/shy-mirror.html',
+		  'title': 'Shy Mirror'
+		});
+	</script>
+	<!-- End Google Analytics -->
+
+
+  </body>
+</html>
