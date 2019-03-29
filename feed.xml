@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-03-29T15:45:45+01:00</updated><id>/feed.xml</id><title type="html">Zhang Zhan</title><entry><title type="html">Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital</title><link href="/2017/05/01/exposed-and-interlaced.html" rel="alternate" type="text/html" title="Exposed &amp; Interlaced – Exploring Motion in Analog and Digital" /><published>2017-05-01T00:00:00+02:00</published><updated>2017-05-01T00:00:00+02:00</updated><id>/2017/05/01/exposed-and-interlaced</id><content type="html" xml:base="/2017/05/01/exposed-and-interlaced.html">&lt;p&gt;Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital is a sequence of imaging chronicling a dance performance into 10 different fragments. The viewer will be able to view each fragment as a long exposure film print, as a representation of analog means, and an interactive lenticular that will allow the viewer to see a short video clip by changing their perspective, as a representation of digital means. The fragments will be displayed sequentially to communicate the entire dance performance.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-03-29T19:43:25+01:00</updated><id>/feed.xml</id><title type="html">Zhang Zhan</title><entry><title type="html">Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital</title><link href="/2017/05/01/exposed-and-interlaced.html" rel="alternate" type="text/html" title="Exposed &amp; Interlaced – Exploring Motion in Analog and Digital" /><published>2017-05-01T00:00:00+02:00</published><updated>2017-05-01T00:00:00+02:00</updated><id>/2017/05/01/exposed-and-interlaced</id><content type="html" xml:base="/2017/05/01/exposed-and-interlaced.html">&lt;p&gt;&lt;em&gt;Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital&lt;/em&gt; is a sequence of imaging chronicling a dance performance into 10 different fragments. The viewer will be able to view each fragment as a long exposure film print, as a representation of analog means, and an interactive lenticular that will allow the viewer to see a short video clip by changing their perspective, as a representation of digital means. The fragments will be displayed sequentially to communicate the entire dance performance.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-0.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/215510021&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -432,7 +434,7 @@ Kinect captured point cloud
 &lt;img src=&quot;/images/swing-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/swing-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Swing is a new music interface installation featuring a swinging lattern with elastics. It soundifies locations, acceleration, and also elasticity.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/swing-featured-image.jpg" /></entry><entry><title type="html">DISTANCE</title><link href="/2017/03/01/distance.html" rel="alternate" type="text/html" title="DISTANCE" /><published>2017-03-01T00:00:00+01:00</published><updated>2017-03-01T00:00:00+01:00</updated><id>/2017/03/01/distance</id><content type="html" xml:base="/2017/03/01/distance.html">&lt;p&gt;&lt;em&gt;DISTANCE&lt;/em&gt; is inspired from a quote about the Moon and chinese poems I like where the Moon is romanticized as people’s beloved ones who are far away. In this project, users are able to get the distance between where they are and where their beloved ones are by entering two locations, and a visual comparison of their distance to the moon and the distance to the beloved ones will follow.&lt;/p&gt;
 
-&lt;p&gt;Project Demo: &lt;a href=&quot;/distance/&quot; target=&quot;_blank&quot;&gt;DISTANCE&lt;/a&gt;(for a better experience, please open the link in Google Chrome)&lt;/p&gt;
+&lt;p&gt;Project Demo: &lt;a href=&quot;/distance/&quot; target=&quot;_blank&quot;&gt;DISTANCE&lt;/a&gt; (for a better experience, please open the link in Google Chrome)&lt;/p&gt;
 
 &lt;p&gt;There is this quote that I heard of before and to be honest I don’t remember exact words-it is basically saying no matter how far apart two people are, compared to the distance between earth and moon, it is a lot easier for the two to meet than one of them going to the moon. This might sound ridiculous, however, this quote reminded me of the common approach that many ancient Chinese poets used to express that they were longing for faraway beloved in their masterpieces. It can be summarized as “though we are far apart, both looking at the moon, and it de facto makes us closer to each other”.&lt;/p&gt;
 
@@ -465,12 +467,11 @@ Kinect captured point cloud
 
 &lt;p&gt;&lt;a href=&quot;http://learningthreejs.com/blog/2013/09/16/how-to-make-the-earth-in-webgl/&quot; target=&quot;_blank&quot;&gt;http://learningthreejs.com/blog/2013/09/16/how-to-make-the-earth-in-webgl/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://mattloftus.github.io/2016/02/03/threejs-p2/&quot; target=&quot;_blank&quot;&gt;https://mattloftus.github.io/2016/02/03/threejs-p2/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">DISTANCE is inspired from a quote about the Moon and chinese poems I like where the Moon is romanticized as people’s beloved ones who are far away. In this project, users are able to get the distance between where they are and where their beloved ones are by entering two locations, and a visual comparison of their distance to the moon and the distance to the beloved ones will follow.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/distance-featured-image.jpg" /></entry><entry><title type="html">Thirstea</title><link href="/2016/12/12/thirstea.html" rel="alternate" type="text/html" title="Thirstea" /><published>2016-12-12T00:00:00+01:00</published><updated>2016-12-12T00:00:00+01:00</updated><id>/2016/12/12/thirstea</id><content type="html" xml:base="/2016/12/12/thirstea.html">&lt;p&gt;Thirstea is a tea plant that feeds on the attention it gets on social media. The project is made up of a plant of tea tree and an irrigation system that is hooked to a Twitter bot and a webcam. The twitter bot will tweet about the growth of the plant every day with photos of the plant.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mattloftus.github.io/2016/02/03/threejs-p2/&quot; target=&quot;_blank&quot;&gt;https://mattloftus.github.io/2016/02/03/threejs-p2/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">DISTANCE is inspired from a quote about the Moon and chinese poems I like where the Moon is romanticized as people’s beloved ones who are far away. In this project, users are able to get the distance between where they are and where their beloved ones are by entering two locations, and a visual comparison of their distance to the moon and the distance to the beloved ones will follow.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/distance-featured-image.jpg" /></entry><entry><title type="html">Thirstea</title><link href="/2016/12/12/thirstea.html" rel="alternate" type="text/html" title="Thirstea" /><published>2016-12-12T00:00:00+01:00</published><updated>2016-12-12T00:00:00+01:00</updated><id>/2016/12/12/thirstea</id><content type="html" xml:base="/2016/12/12/thirstea.html">&lt;p&gt;&lt;em&gt;Thirstea&lt;/em&gt; is a tea plant that feeds on the attention it gets on social media. The project is made up of a plant of tea tree and an irrigation system that is hooked to a Twitter bot and a webcam. The twitter bot will tweet about the growth of the plant every day with photos of the plant.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/195745514&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/195745514&quot;&gt;Thirstea&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Video filmed and editted by Zhang Zhan&lt;/p&gt;
+&lt;p&gt;Video filmed and edited by Zhang Zhan&lt;/p&gt;
 
 &lt;p&gt;Project by Richard Lewei Huang and Zhang Zhan&lt;/p&gt;
 
@@ -498,9 +499,9 @@ Kinect captured point cloud
 &lt;img src=&quot;/images/thirstea-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/thirstea-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/thirstea-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/thirstea-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Thirstea is a tea plant that feeds on the attention it gets on social media. The project is made up of a plant of tea tree and an irrigation system that is hooked to a Twitter bot and a webcam. The twitter bot will tweet about the growth of the plant every day with photos of the plant.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/thirstea-featured-image.jpg" /></entry><entry><title type="html">Above The Sea</title><link href="/2016/12/12/above-the-sea.html" rel="alternate" type="text/html" title="Above The Sea" /><published>2016-12-12T00:00:00+01:00</published><updated>2016-12-12T00:00:00+01:00</updated><id>/2016/12/12/above-the-sea</id><content type="html" xml:base="/2016/12/12/above-the-sea.html">&lt;p&gt;Project Demo: &lt;a href=&quot;/p5-above-the-sea/&quot; target=&quot;_blank&quot;&gt;Above The Sea – Shanghai&lt;/a&gt; (for a better experience, please open the link in Google Chrome)&lt;/p&gt;
+&lt;img src=&quot;/images/thirstea-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Thirstea is a tea plant that feeds on the attention it gets on social media. The project is made up of a plant of tea tree and an irrigation system that is hooked to a Twitter bot and a webcam. The twitter bot will tweet about the growth of the plant every day with photos of the plant.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/thirstea-featured-image.jpg" /></entry><entry><title type="html">Above The Sea</title><link href="/2016/12/12/above-the-sea.html" rel="alternate" type="text/html" title="Above The Sea" /><published>2016-12-12T00:00:00+01:00</published><updated>2016-12-12T00:00:00+01:00</updated><id>/2016/12/12/above-the-sea</id><content type="html" xml:base="/2016/12/12/above-the-sea.html">&lt;p&gt;&lt;em&gt;Above The Sea&lt;/em&gt; translates weather forecast data(sea level and main weather condition) of a certain city into notes and chords and visualizes the data in a column system in p5. After being laser cut onto the clear acrylic board, the songs about the sea level and weather above the sea can be played on a record player. This project tranforms and stores weather data in an analog way, providing a new musical interface for data-human interaction with an artistic approach.&lt;/p&gt;
 
-&lt;p&gt;Above The Sea translates weather forecast data(sea level and main weather condition) of a certain city into notes and chords and visualizes the data in a column system in p5. After being laser cut onto the clear acrylic board, the songs about the sea level and weather above the sea can be played on a record player.&lt;/p&gt;
+&lt;p&gt;Project Demo: &lt;a href=&quot;/p5-above-the-sea/&quot; target=&quot;_blank&quot;&gt;Above The Sea – Shanghai&lt;/a&gt; (for a better experience, please open the link in Google Chrome)&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/195638313&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/195638313&quot;&gt;Above The Sea&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
@@ -544,10 +545,9 @@ Kinect captured point cloud
 
 &lt;p&gt;&lt;img src=&quot;/images/above-the-sea-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/above-the-sea-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/above-the-sea-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Project Demo: Above The Sea – Shanghai (for a better experience, please open the link in Google Chrome)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/above-the-sea-featured-image.jpg" /></entry><entry><title type="html">A Song Without Words</title><link href="/2016/12/12/a-song-without-words.html" rel="alternate" type="text/html" title="A Song Without Words" /><published>2016-12-12T00:00:00+01:00</published><updated>2016-12-12T00:00:00+01:00</updated><id>/2016/12/12/a-song-without-words</id><content type="html" xml:base="/2016/12/12/a-song-without-words.html">&lt;p&gt;A Song Without Words is an interactive dance piece using Kinect with projection of visuals created according to the body movement sensed by Kinect.&lt;/p&gt;
+&lt;img src=&quot;/images/above-the-sea-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Above The Sea translates weather forecast data(sea level and main weather condition) of a certain city into notes and chords and visualizes the data in a column system in p5. After being laser cut onto the clear acrylic board, the songs about the sea level and weather above the sea can be played on a record player. This project tranforms and stores weather data in an analog way, providing a new musical interface for data-human interaction with an artistic approach.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/above-the-sea-featured-image.jpg" /></entry><entry><title type="html">A Song Without Words</title><link href="/2016/12/12/a-song-without-words.html" rel="alternate" type="text/html" title="A Song Without Words" /><published>2016-12-12T00:00:00+01:00</published><updated>2016-12-12T00:00:00+01:00</updated><id>/2016/12/12/a-song-without-words</id><content type="html" xml:base="/2016/12/12/a-song-without-words.html">&lt;p&gt;&lt;em&gt;A Song Without Words&lt;/em&gt; is an interactive dance piece using Kinect with projection of visuals created according to the body movement sensed by Kinect.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/195400876&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/195400876&quot;&gt;A Song Without Words&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Dancer and choreographer: Ann Yang&lt;/p&gt;
 
@@ -555,28 +555,111 @@ Kinect captured point cloud
 
 &lt;p&gt;Filmed by Jingyi Sun, Maggie Walsh and Zhang Zhan&lt;/p&gt;
 
-&lt;p&gt;Editted by Zhang Zhan&lt;/p&gt;
+&lt;p&gt;Edited by Zhang Zhan&lt;/p&gt;
 
 &lt;p&gt;This dance piece is a visual response to the song, 无言歌, by Sandy Lam. My friend, Ann Yang, a talented dancer, choreographed this dance under my general guideline. There are four stages in the dance performance–birth, accumulation, explosion, and decay. Each stage is represented by different visual effects such as point cloud, particle explosion system, particle ring, and particles collapsing. The main point cloud figure is the live visual resemblance of the dancer, and the dancer also react to the visuals by modifying her dance routines based on what the visual is created by her previous movements and positions.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/images/a-song-without-words-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;calibration&quot;&gt;Calibration&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Set up Kinect and adjust its detection range to get the best detection with proper depth of the dancer&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open Processing sketch to project a solid color image to the wall, and adjust projection area in Resolume to fully cover the area&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/a-song-without-words-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;phase-i---birth&quot;&gt;Phase I - Birth&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dancer rises from the floor&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Particles gather and form a ring around the dancer&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/a-song-without-words-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;phase-ii---accumulation&quot;&gt;Phase II - Accumulation&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dancer’s point cloud image appears&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Point cloud image starts rotating in the virtual space and the dancer starts dancing to the point cloud image based on the location&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;More particles start falling from the point cloud image&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/a-song-without-words-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;phase-iii---explosion&quot;&gt;Phase III - Explosion&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Particles stops falling&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;More randomly allocated particles appear on the surface still&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Whenever dancer’s closest point(usually foot or hand) hits a group of particles, those particles bounce off immediately at a high speed to create chaos and massive movements&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/a-song-without-words-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;phase-iv---decay&quot;&gt;Phase IV - Decay&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bouncing particles fade away&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dancer get closer to the floor with more floor movements&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;New particles move across the screen from the bottom at a even higher speed to create falling illusion&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dancer lies down while raising hand acting as falling&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Background slightly brightens, and becomes solid white in the end&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dancer lies on the floor still&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/a-song-without-words-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-13.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Thanks to Prof. JH Moon for letting me use his Mac Pro, keyboard, track pad, his screen, and the speaker. The visuals are created in a processing sketch with a control panel. Visuals are sent to Arena with syphon, but the control panel is not sent to the Arena so that I can do live control including particle speed, color gradience, transition over the visuals. A Kinect is used to sense the depth and capture the shape of the object within the sensing range. The explosion and particles is attracted by the closest point within the sensing area.&lt;/p&gt;
 
-&lt;p&gt;Special thanks to Prof. JH Moon, Jingyi Sun and Maggie Walsh.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/a-song-without-words-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/a-song-without-words-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/a-song-without-words-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/a-song-without-words-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/a-song-without-words-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/a-song-without-words-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/a-song-without-words-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">A Song Without Words is an interactive dance piece using Kinect with projection of visuals created according to the body movement sensed by Kinect.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/a-song-without-words-featured-image.jpg" /></entry><entry><title type="html">Shy Mirror</title><link href="/2016/12/05/shy-mirror.html" rel="alternate" type="text/html" title="Shy Mirror" /><published>2016-12-05T00:00:00+01:00</published><updated>2016-12-05T00:00:00+01:00</updated><id>/2016/12/05/shy-mirror</id><content type="html" xml:base="/2016/12/05/shy-mirror.html">&lt;p&gt;Shy Mirror is the final project for Interactive Installation class created by Alexis Zerafa, Xiran Yang and me. Shy Mirror is a mirror that gently rotates 90 degrees when someone is in front of it, therefore the participant can not see his own reflection in the mirror.&lt;/p&gt;
+&lt;p&gt;Special thanks to Prof. JH Moon, Jingyi Sun and Maggie Walsh.&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">A Song Without Words is an interactive dance piece using Kinect with projection of visuals created according to the body movement sensed by Kinect.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/a-song-without-words-featured-image.jpg" /></entry><entry><title type="html">Shy Mirror</title><link href="/2016/12/05/shy-mirror.html" rel="alternate" type="text/html" title="Shy Mirror" /><published>2016-12-05T00:00:00+01:00</published><updated>2016-12-05T00:00:00+01:00</updated><id>/2016/12/05/shy-mirror</id><content type="html" xml:base="/2016/12/05/shy-mirror.html">&lt;p&gt;&lt;em&gt;Shy Mirror&lt;/em&gt; is an interactive installation created by Alexis Zerafa, Xiran Yang, and me. We wanted to explore human nature as it pertains to vanity. It is easy to become infatuated with self-reflection, to a point where one becomes obsessed with the reflection of the self. Our project attempts the fracture that infatuation, by designing a mirror that spins away when a viewer approaches it. This forces the person attempting to view themselves to instead view others around them.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/194319808&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/194319808&quot;&gt;Shy Mirror&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Filmed by Alexis Zerafa, Xiran Yang and Zhang Zhan&lt;/p&gt;
 
-&lt;p&gt;Editted by Alexis Zerafa&lt;/p&gt;
+&lt;p&gt;Edited by Alexis Zerafa&lt;/p&gt;
 
 &lt;p&gt;This project focuses on the narcissistic behaviors shared by common human beings. We would like to raise the participant’s self-awareness of narcissism by angling the mirror that people tend to walk up to and where they look at themselves. This action disables them from looking at themselves in the mirror and, instead, participants are forced to look at the reflection of others in the room. We like this idea because not only is the concept persuasive and easy to convey, but also the physical object is simplistic and relevant to a broad audience.&lt;/p&gt;
 
@@ -602,7 +685,7 @@ Kinect captured point cloud
 &lt;img src=&quot;/images/shy-mirror-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/shy-mirror-13.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/shy-mirror-14.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/shy-mirror-15.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Shy Mirror is the final project for Interactive Installation class created by Alexis Zerafa, Xiran Yang and me. Shy Mirror is a mirror that gently rotates 90 degrees when someone is in front of it, therefore the participant can not see his own reflection in the mirror.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/shy-mirror-featured-image.jpg" /></entry><entry><title type="html">Little Brothers Entertainment Brochure</title><link href="/2016/10/20/little-brothers-entertainment-brochure.html" rel="alternate" type="text/html" title="Little Brothers Entertainment Brochure" /><published>2016-10-20T00:00:00+02:00</published><updated>2016-10-20T00:00:00+02:00</updated><id>/2016/10/20/little-brothers-entertainment-brochure</id><content type="html" xml:base="/2016/10/20/little-brothers-entertainment-brochure.html">&lt;p&gt;Company overview brochure design for Little Brothers Entertainment based in Shanghai.&lt;/p&gt;
+&lt;img src=&quot;/images/shy-mirror-15.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Shy Mirror is an interactive installation created by Alexis Zerafa, Xiran Yang, and me. We wanted to explore human nature as it pertains to vanity. It is easy to become infatuated with self-reflection, to a point where one becomes obsessed with the reflection of the self. Our project attempts the fracture that infatuation, by designing a mirror that spins away when a viewer approaches it. This forces the person attempting to view themselves to instead view others around them.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/shy-mirror-featured-image.jpg" /></entry><entry><title type="html">Little Brothers Entertainment Brochure</title><link href="/2016/10/20/little-brothers-entertainment-brochure.html" rel="alternate" type="text/html" title="Little Brothers Entertainment Brochure" /><published>2016-10-20T00:00:00+02:00</published><updated>2016-10-20T00:00:00+02:00</updated><id>/2016/10/20/little-brothers-entertainment-brochure</id><content type="html" xml:base="/2016/10/20/little-brothers-entertainment-brochure.html">&lt;p&gt;Company overview brochure design for Little Brothers Entertainment based in Shanghai.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/little-brothers-entertainment-brochure-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/little-brothers-entertainment-brochure-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
@@ -623,7 +706,6 @@ Kinect captured point cloud
 &lt;img src=&quot;/images/little-brothers-entertainment-brochure-17.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="design" /><summary type="html">Company overview brochure design for Little Brothers Entertainment based in Shanghai.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/little-brothers-entertainment-brochure-featured-image.jpg" /></entry><entry><title type="html">Pop &amp;amp; Poem Typewriter</title><link href="/2016/10/04/pop-and-poem-typewriter.html" rel="alternate" type="text/html" title="Pop &amp; Poem Typewriter" /><published>2016-10-04T00:00:00+02:00</published><updated>2016-10-04T00:00:00+02:00</updated><id>/2016/10/04/pop-and-poem-typewriter</id><content type="html" xml:base="/2016/10/04/pop-and-poem-typewriter.html">&lt;p&gt;Project Demo: &lt;a href=&quot;/p5-pop-and-poem-typewriter/&quot; target=&quot;_blank&quot;&gt;Pop &amp;amp; Poem Typewriter&lt;/a&gt; (for a better experience, please open the link in Google Chrome)&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/190374026&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/190374026&quot;&gt;Pop &amp;amp; Poem Typewriter&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Pop &amp;amp; Poem Typewriter is my midterm project for Code of Music class at NYU Shanghai. Each of the 40 Keys including A-Z(26), 0-9(10), Delete, Period, Comma, Space is linked to a small wav clip cut out from a pop song where the singer(s) spell out the letter or word. As you type a poem, a song made of those corresponding small clips will be triggered at the same time. I was looking to translate text into music to form the link between visual and aural via the contrast between letters in poem and pop music sound clips. To be honest, this project doesn’t have to involve poems, thus any text would trigger a piece of musical collage of short sound clips. I hope people could get a brand new experience of typing with the aural feedback that’s seldom happening when people type except for the monotone keyboard sound or the sounds of fingers hitting the buttons.&lt;/p&gt;
 
@@ -707,12 +789,11 @@ Kinect captured point cloud
 
 &lt;p&gt;Comma - Coldplay - Every Teardrop Is a Waterfall&lt;/p&gt;
 
-&lt;p&gt;Space - Taylor Swift - Blank Space&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Project Demo: Pop &amp;amp; Poem Typewriter (for a better experience, please open the link in Google Chrome)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pop-and-poem-typewriter-featured-image.jpg" /></entry><entry><title type="html">Project 1933</title><link href="/2016/10/03/project-1933.html" rel="alternate" type="text/html" title="Project 1933" /><published>2016-10-03T00:00:00+02:00</published><updated>2016-10-03T00:00:00+02:00</updated><id>/2016/10/03/project-1933</id><content type="html" xml:base="/2016/10/03/project-1933.html">&lt;p&gt;Project 1933, an interactive installation built for Interactive Installation class at NYU Shanghai, is responding to 1933 Slaughterhouse in Hongkou District, Shanghai.&lt;/p&gt;
+&lt;p&gt;Space - Taylor Swift - Blank Space&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Project Demo: Pop &amp;amp; Poem Typewriter (for a better experience, please open the link in Google Chrome)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pop-and-poem-typewriter-featured-image.jpg" /></entry><entry><title type="html">Project 1933</title><link href="/2016/10/03/project-1933.html" rel="alternate" type="text/html" title="Project 1933" /><published>2016-10-03T00:00:00+02:00</published><updated>2016-10-03T00:00:00+02:00</updated><id>/2016/10/03/project-1933</id><content type="html" xml:base="/2016/10/03/project-1933.html">&lt;p&gt;&lt;em&gt;Project 1933&lt;/em&gt;, an interactive installation built for Interactive Installation class at NYU Shanghai, is responding to 1933 Slaughterhouse in Hongkou District, Shanghai.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/188636034&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/188636034&quot;&gt;Project 1933&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Video editted by Kevin Pham&lt;/p&gt;
+&lt;p&gt;Video edited by Kevin Pham&lt;/p&gt;
 
 &lt;p&gt;Filmed by Zhang Zhan&lt;/p&gt;
 
