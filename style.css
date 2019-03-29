@@ -378,7 +378,7 @@ nav a {
   }
 }
 
-.posts .post:last-child {
+.posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
 }
