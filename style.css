@@ -83,12 +83,12 @@ body {
 
 .container {
   margin: 0 auto;
+  min-width: 170px;
   padding: 0 10px;
 }
 
 div.front-page-container {
   position: relative;
-  top: 12px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -122,7 +122,8 @@ h1 a {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 20px;
+  line-height: 1.4;
 }
 
 h3 {
@@ -265,6 +266,7 @@ strong, b {
 .masthead {
   border-bottom: 0 solid #eee;
   text-align: right;
+  min-width: 170px;
 }
 @media screen and (max-width: 640px) {
   .masthead {
@@ -364,19 +366,19 @@ nav a {
   }
 }
 
-.posts > .post {
+.posts .post {
   padding-bottom: 15px;
   padding-top: 0;
   border-bottom: 0px solid #eee;
 }
 @media screen and (max-width: 640px) {
-  .posts > .post {
+  .posts .post {
     border-bottom: 1px solid #eee;
     margin-bottom: 25px;
   }
 }
 
-.posts > .post:last-child {
+.posts .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
 }
@@ -544,6 +546,22 @@ h6 {
 .cv-content p {
   margin: 4px 0 4px 0;
   font-size: 14px;
+}
+
+.video_container {
+  position: relative;
+  padding-bottom: 56.25%;
+  /* 16:9 */
+  padding-top: 0px;
+  height: 0;
+}
+
+.video_container video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .highlight {

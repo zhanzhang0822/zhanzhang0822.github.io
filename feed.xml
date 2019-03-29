@@ -1,4 +1,471 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-03-28T10:36:05+01:00</updated><id>/feed.xml</id><title type="html">Zhang Zhan</title><entry><title type="html">Thirstea</title><link href="/2016/12/12/thirstea.html" rel="alternate" type="text/html" title="Thirstea" /><published>2016-12-12T00:00:00+01:00</published><updated>2016-12-12T00:00:00+01:00</updated><id>/2016/12/12/thirstea</id><content type="html" xml:base="/2016/12/12/thirstea.html">&lt;p&gt;Thirstea is a tea plant that feeds on the attention it gets on social media. The project is made up of a plant of tea tree and an irrigation system that is hooked to a Twitter bot and a webcam. The twitter bot will tweet about the growth of the plant every day with photos of the plant.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-03-29T01:00:46+01:00</updated><id>/feed.xml</id><title type="html">Zhang Zhan</title><entry><title type="html">Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital</title><link href="/2017/05/01/exposed-and-interlaced.html" rel="alternate" type="text/html" title="Exposed &amp; Interlaced – Exploring Motion in Analog and Digital" /><published>2017-05-01T00:00:00+02:00</published><updated>2017-05-01T00:00:00+02:00</updated><id>/2017/05/01/exposed-and-interlaced</id><content type="html" xml:base="/2017/05/01/exposed-and-interlaced.html">&lt;p&gt;Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital is a sequence of imaging chronicling a dance performance into 10 different fragments. The viewer will be able to view each fragment as a long exposure film print, as a representation of analog means, and an interactive lenticular that will allow the viewer to see a short video clip by changing their perspective, as a representation of digital means. The fragments will be displayed sequentially to communicate the entire dance performance.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/215510021&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Skip to &lt;a href=&quot;#diy-motion-lenticular-tutorial&quot;&gt;DIY Motion Lenticular Tutorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;conceptual-development&quot;&gt;Conceptual Development:&lt;/h3&gt;
+
+&lt;p&gt;This idea was formed with my own experiences here at NYU Shanghai and also when I studied abroad. I took the Intro to Film Photography class in NYU Prague with the great artist/Professor Bara Mrazkova. I loved every second of the class and also the time I got to spend in the darkroom, the unexpected surprises along with the special personality of the film, and the delicate nuance. I also took a class with Professor Moon last semester at NYU Shanghai called Kinetic Interfaces, where I had the chance to experiment with Microsoft Kinect, a motion sensing device and the body movement data. For the final project of that class, I did a dance collaboration with my friend Ann. I was pretty amazed by how the human body was recognized and captured.&lt;/p&gt;
+
+&lt;p&gt;I had this idea of doing human size photogram to show the human movement. According to Wikipedia, “a photogram is a photographic image made without a camera by placing objects directly onto the surface of a light-sensitive material such as photographic paper and then exposing it to light. The usual result is a negative shadow image that shows variations in tone that depends upon the transparency of the objects used. Areas of the paper that have received no light appear white; those exposed through transparent or semi-transparent objects appear gray” (&lt;a href=&quot;https://en.wikipedia.org/wiki/Photogram&quot; target=&quot;_blank&quot;&gt;https://en.wikipedia.org/wiki/Photogram&lt;/a&gt;). Then I found a photographic artist Floris Neusüss who did human size photograms (&lt;a href=&quot;http://www.vonlintel.com/Floris-Neususs.html&quot; target=&quot;_blank&quot;&gt;http://www.vonlintel.com/Floris-Neususs.html&lt;/a&gt;). I contacted the gallery inquiring about the process and materials and I heard back from them with the answers I needed. However, given the fact that this idea has a really strict requirement on the space, a darkroom with enough space with a big enough pool/bathtub for developing prints, and also the materials, customized size/unusual big size photo papers, which would potentially elevate the cost of the project by a fairly large amount as well as the time consumption. I decided to pivot it.&lt;/p&gt;
+
+&lt;p&gt;Instead of analog media taking up the entire project, I thought it would be a good idea to bring digital into the field. Kinect can sense and record body motion data in digital form, and film photography is an analog way to record things. I started paying attention to the contrast and different between these two means. Although we live in an analog world, almost every single aspect has been heavily digitized. When you go to a concert, you see a wall of iPhones screen lit up; when you go to a museum, you see people with lenses capturing people striking poses with the art works; people read pdfs; etc. Almost all the analog media have at least one or multiple replacements that feature convenience on user’s side when it comes to distribution, utilization and manipulation.&lt;/p&gt;
+
+&lt;p&gt;Having dance as the as the content that shared by digital and analog approach of data recording, I started looking for media for presenting the data. AJ introduced lenticular and &lt;a href=&quot;https://gifpop.io&quot; target=&quot;_blank&quot;&gt;gifpop&lt;/a&gt; to me. Lenticular printing is a technology in which lenticular lenses (a technology that is also used for 3D displays) are used to produce printed images with an illusion of depth, or the ability to change or move as the image is viewed from different angles. I thought this would be a good way to present digital data which essentially is a short snippet of the dance piece and that data is in point-cloud form since digital recorded data can be easily modified and that directly shows how the Kinect device is sensing and selecting the samples, which is those dots where infrared light it emits lands. Same snippet of dance piece was also recorded on a long-exposed negative. After developing the negative, I printed it out with an enlarger onto a light-sensitive photo paper. Each fragment of the dance piece has two presentations with one being long-exposure film print and one being point cloud lenticular sheet, and in total 10 fragments will be displayed sequentially to communicate the entire dance performance.&lt;/p&gt;
+
+&lt;p&gt;The idea of this project is a culmination of my skill set as I am applying the film photography techniques I learned in Prague with the Kinect motion sensing skills I learned in IMA. A wholly original concept, this project dares to mix means of media that haven’t been mixed before and is an opportunity for me to contribute to the fields of work I have always admired in motion capture, film photography, and performance based art, while starting quality documentation in areas that have been ill documented, like lenticular printing.&lt;/p&gt;
+
+&lt;h3 id=&quot;technical-development&quot;&gt;Technical Development:&lt;/h3&gt;
+
+&lt;h5 id=&quot;lenticular-effects&quot;&gt;Lenticular Effects&lt;/h5&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Since I had experience with film photography before, I was pretty confident the analog output of this project would not be a challenge compared to making lenticular sheet. I started off with doing research on lenticular techniques. Here’s the general procedure I summarized: order lenticular sheet, pitch testing, interlace images, print, lamination (please go to the end of this post for a more detailed DIY lenticular tutorial). Lenticular technique has a couple of effects – flip, 3D, morph, and motion. Flip makes an image flip from one image to the next. 3D effect creates depth on a normally flat surface. The 3D Effect effect is generated by splicing several frames together to trick the viewer into seeing the 3D effect. Morph effects gradually change one image to another image through the use of sophisticated image algorithms. Motion effect uses multiple frames of an action to show movement from the beginning to the end. In my case, motion would be the effect I need.&lt;/p&gt;
+
+&lt;h5 id=&quot;pitch-test&quot;&gt;Pitch Test&lt;/h5&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Making lenticular sheet relies heavily on a good printer. The school printer has the maximum of 1200 DPI. Lenticular sheet has one configuration which is LPI (lenticules per inch). Since the images have to be interlaced, the number of frames of images being used multiples LPI of the lenticular sheet should be no more than the maximum DPI of a printer. I started with purchasing lenticular sheets with a relatively low LPI, 25 and 32 from this &lt;a href=&quot;https://shop36592958.taobao.com/?spm=a1z10.1-c.0.0.rEmcSN&quot; target=&quot;_blank&quot;&gt;store&lt;/a&gt;. After I received them, I realized they might be too thick for a lenticular sheet, but it could be a good testing round. I did pitch testing, which is essentially a calibration tool. It calibrates the printer, media and lenticular sheet used for a particular image. The purpose of the pitch test is to determine which LPI pitch matches the particular printer/media/lenticular sheet combination. Since output devices may have slight differences in variability, pitch test is needed on each output device you intend to print interlaced images to. Shift your viewing angle left and right. Look at each bar and determine which bar gives you the widest flip from solid black to white across the entire width of the printed area. The bar that represents the best (widest) flip is the proper LPI that you need to interlace your files to.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/exposed&amp;amp;interlaced-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;25-32-50-70-75-100-lpi&quot;&gt;25, 32, 50, 70, 75, 100 LPI&lt;/h5&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;It turned out that the 32 LPI was actually 31.56 LPI. I decided to make a lenticular testing with a gif I found online to test the motion effect.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+    25 LPI VS 32 LPI
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-4.gif&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  GIF credit: &lt;a href=&quot;http://www.creativeapplications.net/tutorials/how-to-create-interactive-loops-using-lenticular-animation-and-gifpop/&quot; target=&quot;_blank&quot;&gt;Bryce Summers, CMU Undergraduate studying Computer Science&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;It worked. Since its a low LPI lenticular lens, the interlace lines/gaps are pretty obvious though.&lt;/p&gt;
+&lt;div class=&quot;video_container&quot;&gt;
+  &lt;video controls=&quot;controls&quot; allowfullscreen=&quot;true&quot;&gt;
+    &lt;source src=&quot;/images/exposed&amp;amp;interlaced-5.m4v&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt; 
+&lt;/div&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+	Bryce Summers’ GIF with a 32 LPI lenticular lens
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then I purchased more to test out 50 70 75 100 LPI lenticular lens.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+	50 LPI VS 70 LPI
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+	75 LPI VS 100 LPI
+&lt;/p&gt;
+
+&lt;p&gt;Among these four, it was sort of impossible to figure out the pitch testing for 100. For 50, 70 and 75 LPI, the actual LPI I got was 50.17, 70.23 and 75.30.&lt;/p&gt;
+
+&lt;div class=&quot;video_container&quot;&gt;
+  &lt;video controls=&quot;controls&quot; allowfullscreen=&quot;true&quot;&gt;
+    &lt;source src=&quot;/images/exposed&amp;amp;interlaced-9.m4v&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt; 
+&lt;/div&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Bryce Summers’ GIF with a 70 LPI lenticular lens
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+25, 32, 50, 70, 75, 100 LPI
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+25, 32, 50, 70, 75, 100 LPI
+&lt;/p&gt;
+
+&lt;p&gt;After taking into consideration the thickness, resolution, pitch test result and smoothness of the motion effect, I decided to go with 70 LPI lenticular lens.&lt;/p&gt;
+
+&lt;h5 id=&quot;point-cloud-vs-color&quot;&gt;Point Cloud VS Color&lt;/h5&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;video_container&quot;&gt;
+  &lt;video controls=&quot;controls&quot; allowfullscreen=&quot;true&quot;&gt;
+    &lt;source src=&quot;/images/exposed&amp;amp;interlaced-12.m4v&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt; 
+&lt;/div&gt;
+
+&lt;p&gt;I was trying to decide what sort of data visualization to show on a lenticular print, and someone told to apply colors of the specific infrared landing points captured by the normal camera in Kinect. I decided t it a try the video above shows how it turned out. I didn’t continue with this for two reasons with first being it didn’t look good, and the second, point cloud represents the essential sampling step in digital data processing. If I had to show color, a better camera would actually give me a better imaging of the dance movement movie with better color and resolution. It makes more sense to show point cloud with a lenticular lens.&lt;/p&gt;
+
+&lt;h5 id=&quot;nyu-shanghai-default-printing-paper-vs-200g250g-laser-printing-paper&quot;&gt;NYU Shanghai Default Printing Paper VS 200g/250g Laser Printing Paper&lt;/h5&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-13.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+	200 &amp;amp; 250g laser printing paper with NYU Shanghai 8F printer
+&lt;/p&gt;
+
+&lt;p&gt;I tried to used different paper because based on my research, a better paper might make the effect smoother. However, the testing with 200g &amp;amp; 250g laser printing paper was a disaster. Although according to maximum of 300g paper.&lt;/p&gt;
+
+&lt;p&gt;I suspect that the ink wasn’t dry enough so it looked ruined. In normal cases, a high DPI ink printer would be better than a laser printer in lenticular printing. Thus I decided to stick with the NYU shanghai default printing paper.&lt;/p&gt;
+
+&lt;h5 id=&quot;black-point-cloud-vs-white-point-cloud&quot;&gt;Black Point Cloud VS White Point Cloud&lt;/h5&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-14.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+	Black point cloud VS white point cloud
+&lt;/p&gt;
+
+&lt;div class=&quot;video_container&quot;&gt;
+  &lt;video controls=&quot;controls&quot; allowfullscreen=&quot;true&quot;&gt;
+    &lt;source src=&quot;/images/exposed&amp;amp;interlaced-15.m4v&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt; 
+&lt;/div&gt;
+&lt;p align=&quot;center&quot;&gt;
+White point cloud on dark background
+&lt;/p&gt;
+
+&lt;div class=&quot;video_container&quot;&gt;
+  &lt;video controls=&quot;controls&quot; allowfullscreen=&quot;true&quot;&gt;
+    &lt;source src=&quot;/images/exposed&amp;amp;interlaced-16.m4v&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt; 
+&lt;/div&gt;
+&lt;p align=&quot;center&quot;&gt;
+Black point cloud on white background
+&lt;/p&gt;
+
+&lt;h5 id=&quot;lamination&quot;&gt;Lamination&lt;/h5&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;The basic procedure is to laminate paper to adhesive and then laminate them to lenticular lens. When laminate adhesive, I peeled half off, and laminate, then do the other half, this can decrease the annoying bubbles that always appear in the lamination process. Please see this &lt;a href=&quot;https://www.youtube.com/watch?v=7lwu3EI1bF4&quot; target=&quot;_blank&quot;&gt;tutorial video&lt;/a&gt; for further instructions.&lt;/p&gt;
+
+&lt;h5 id=&quot;filming&quot;&gt;Filming&lt;/h5&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Kinect + film camera on a tripod. I took 20 long-exposure (half second only) photos with the film camera, while recording 20 snippets of the dance performance with each being 25 frames (only 15 was selected). Framerate of the program was around 30 fps, so 15 frames would match what the camera captured.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-17.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/exposed&amp;amp;interlaced-18.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;developing-negatives-and-printing-photos&quot;&gt;Developing Negatives and Printing Photos&lt;/h5&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;After movement was recorded with both methods, I went to the DN Darkroom in M50 to develop my negatives and printed the photos out.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-19.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/exposed&amp;amp;interlaced-20.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/exposed&amp;amp;interlaced-21.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/exposed&amp;amp;interlaced-22.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/exposed&amp;amp;interlaced-23.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+A sketch of unifying sizes of point cloud prints(A4), lenticular lenses(20cm*30cm), and light sensitive photopaper(9.5*12 inches)
+&lt;/p&gt;
+
+&lt;p&gt;I decided to make the final size for both film photographs and lenticular prints to be 18*27cm which involved paper cutter and laser cutter(for lenticular lenses).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-24.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/exposed&amp;amp;interlaced-25.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/exposed&amp;amp;interlaced-26.gif&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Kinect captured point cloud
+&lt;/p&gt;
+
+&lt;div class=&quot;video_container&quot;&gt;
+  &lt;video controls=&quot;controls&quot; allowfullscreen=&quot;true&quot;&gt;
+    &lt;source src=&quot;/images/exposed&amp;amp;interlaced-27.m4v&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt; 
+&lt;/div&gt;
+
+&lt;h3 id=&quot;acknowledgement&quot;&gt;Acknowledgement&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.fespa.com/news/features/lenticular-printing-explained.html&quot; target=&quot;_blank&quot;&gt;Lenticular printing explained - part 1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.outeraspect.com/basic_lenticular_effects.php&quot; target=&quot;_blank&quot;&gt;LENTICULAR EFFECTS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.microlens.com/pages/pitch_test.htm&quot; target=&quot;_blank&quot;&gt;CREATING AND USING A PITCH TEST&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;www.3dmix.com/eng/download.php&quot; target=&quot;_blank&quot;&gt;Leticular Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://content.photojojo.com/how-to-make-lenticular-images/&quot; target=&quot;_blank&quot;&gt;4 Easy Steps To Making Old-Fashioned Lenticular Images From Your Photos&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://triaxes.com/articles-on-technology/lenticular_motion/&quot; target=&quot;_blank&quot;&gt;Creating lenticular images with motion effect&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dplenticular.com/technology/how-to-interlace-in-photoshop/&quot; target=&quot;_blank&quot;&gt;How to interlace in Photoshop&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I would like to thank all the following people for helping with my Capstone Project:&lt;/p&gt;
+
+&lt;p&gt;Professors: Scott Fitzgerald, Anna Greenspan, Dan Mikesell, JH Moon, Sakar Pudasaini and Clay Shirky&lt;/p&gt;
+
+&lt;p&gt;IMA Fellows:&lt;a href=&quot;http://ajlevine.com/&quot; target=&quot;_blank&quot;&gt;AJ&lt;/a&gt;, &lt;a href=&quot;http://godoymarcela.com/&quot; target=&quot;_blank&quot;&gt;Marcela&lt;/a&gt; and &lt;a href=&quot;http://www.kgrnbrg.com/&quot; target=&quot;_blank&quot;&gt;Kyle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Dancer: Ann F. Yang&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://weibo.com/u/3002081872?topnav=1&amp;amp;wvr=6&amp;amp;topsug=1&amp;amp;is_all=1&quot; target=&quot;_blank&quot;&gt;DN Film Club&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Feedback and filming: &lt;a href=&quot;http://lewei.me/&quot; target=&quot;_blank&quot;&gt;Richard Lewei Huang&lt;/a&gt;, &lt;a href=&quot;http://trhorick.github.io/&quot; target=&quot;_blank&quot;&gt;Tyler Rhorick&lt;/a&gt; and &lt;a href=&quot;http://sunjingyi.cc/&quot; target=&quot;_blank&quot;&gt;Jingyi Sun&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://shop36592958.taobao.com/?spm=a1z10.1-c.0.0.rEmcSN&quot; target=&quot;_blank&quot;&gt;可可的唯一(Taobao vendor)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Funding support: NYU Shanghai Capstone Team&lt;/p&gt;
+
+&lt;h3 id=&quot;diy-motion-lenticular-tutorial&quot;&gt;&lt;a id=&quot;diy-motion-lenticular-tutorial&quot;&gt;DIY Motion Lenticular Tutorial&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h5 id=&quot;order-lenticular-sheets&quot;&gt;Order Lenticular Sheets&lt;/h5&gt;
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lenticular sheets vary from 10LPI to more than 100LPI. Choose the correct LPI is the key step before making lenticular prints. Smaller LPI lenses have clear/obvious lines which can be distracting or make the image motion effect seem less smooth. 50-75 is a good range for motion lenticular. If the LPI above 75, a high DPI ink printer is recommended, and pitch testing is pretty difficult to conduct when you DIY.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make sure: LPI * number of frames &amp;lt;= Highest DPI on your printer&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I order my lenticular sheets from &lt;a href=&quot;https://shop36592958.taobao.com/?spm=a1z10.1-c.0.0.FBpwnz&quot; target=&quot;_blank&quot;&gt;this place&lt;/a&gt;. Good/helpful service if you speak Chinese. They have a wide range of lenticular lens with different LPIs. The normal ones they sell is 20cm * 30cm, but you can choose the orientation of the lenticules. I picked horizontal lenticules (20cm) because my prints are vertical.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make sure you buy their glue/adhesive sheet too&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I have 25, 32, 50, 70, 75, 100 six configurations with vertical/horizontal orientations, if you wanna experiment with them, feel free to come to me.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;pitch-testing&quot;&gt;Pitch Testing&lt;/h5&gt;
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Just like some Taobao vendors, lenticular sheets they sell can not really be trusted as well. 25 LPI can actually be 25.23, and 75 LPI can actually be 75.123. Each lens LPI might vary even if you order them a bunch with the same configuration.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pitch testing is REALLY REALLY IMPORTANT! An accurate pitch can make the motion effect more smooth.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.3dmix.com/eng/download.php&quot; target=&quot;_blank&quot;&gt;This is the place&lt;/a&gt; where I downloaded my pitch testing sheet generator. The Mac one didn’t work for me, so I had to use a PC/Wine on Mac to generate pitch testing sheet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-28.gif&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Three to four rounds of pitch testing is necessary for a lens to get as accurate as possible(ie. xx.xx). For example, for a 70 LPI lens, I would do 70.00-70.10,-70.20-…-72 first, then 70.00-70.03-70.06- … – 70.60, then 70.10-70.11-70.12- … – 70.30. For each round, the range is getting smaller, also the step is getting smaller too.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make sure your print resolution matches your printer DPI.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Put the printed pitch test sheet under the lenticular screen. You can see the similar picture:&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-29.gif&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/exposed&amp;amp;interlaced-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Close one eye and turn the head to the left, and then to the right. Look at the moire moving. Among the strips there are two strips where moire runs TOWARDS each other: the top moire moves from left to right, the bottom one moves from right to left (or otherwise). These two strips are close to the necessary strip.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The pitch of the strip that is the most continuous(fullest black or white) is close to the lenticular sheet pitch.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;interlacing-images-record-action-in-photoshop-recommended-for-mass-reproduction&quot;&gt;Interlacing Images (&lt;strong&gt;record action in photoshop recommended for mass reproduction&lt;/strong&gt;)&lt;/h5&gt;
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;After pitch test, it is time to bring out the good ol’ pal, Photoshop&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Import video/gif, and convert them to frames&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-30.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create a new file with final printing size(including bleed)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Set the resolution to be LPI x frames (in my case, 70.23 x 15 = 1053.45)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-31.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select frames you need from the video/gif file&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Drag them onto the final printing file&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-32.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Scale and position those frames&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make sure each frame is correctly positioned and the content is within the border&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-33.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;8 Create a new file from the menu&amp;lt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Set the “Width” and “Height” to Y pixels (Y = the number of images you are interlacing, in my case 15 pixels x 15 pixels). Set the resolution to LPI x frames. In my case, 70.23 x 15 = 1053.45.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-34.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Zoom to the maximum and use the selection tool (“Marquee tool”), select one pixel line or column (&lt;strong&gt;horizontal is better for flip and vertical is mandatory for 3D, in my case horizontal line with one pixel height selected&lt;/strong&gt;)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fill this selection in black: in the menu bar go to: “Edit”–&amp;gt; ”Fill” and select “Black” from the “Content” dropdown menu&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Our “Pattern” is ready: “Select All”, in the menu; choose “Edit”–&amp;gt; “Define Pattern” and save this with a name like “xyz.xyz LPI xyz frames” In my case, “70.23LPI 15 frames”&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-35.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go back to the final printing file, create a new layer and fill it with the pattern we just defined ”Select”–&amp;gt; ”All”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Then in menu again: “Edit” –&amp;gt; ”Fill” for “Content” choose “Pattern” and choose the pattern you just made. This will fill the layer with the selected pattern&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-36.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Turn this grid into a selection: in the menu “Selection” –&amp;gt; “Color Range” select “Shadows”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This will select the black lines&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-37.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/exposed&amp;amp;interlaced-38.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to your first “Layer”; in the menu “Layer” –&amp;gt; “Layer Mask” –&amp;gt; “Reveal Selection”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This will reveal the image information sitting behind the selection (in my case 1/15 of the image)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-39.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go back to your layer “pattern mask” and move it for one pixel (in my case, one pixel down) and repeat the previous step on the second image layer. (In my case, this will reveal 1/15 of the second frame, and filling 2/15 of the final printing image)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Repeat the previous step till the final printing image is filled with 1/(number of frames) (1/15 in my case) of each frame&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Flatten your result and it is ready to output/print&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;printing&quot;&gt;Printing&lt;/h5&gt;
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ink printer is recommended, and photopaper can make the effect look better.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Laser printer would work too, but paper options that are compatible are more limited. Ink might not be able to stay well on the paper.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;lamination-1&quot;&gt;Lamination&lt;/h5&gt;
+&lt;hr /&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/7lwu3EI1bF4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital is a sequence of imaging chronicling a dance performance into 10 different fragments. The viewer will be able to view each fragment as a long exposure film print, as a representation of analog means, and an interactive lenticular that will allow the viewer to see a short video clip by changing their perspective, as a representation of digital means. The fragments will be displayed sequentially to communicate the entire dance performance.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/exposed-and-interlaced-featured-image.jpg" /></entry><entry><title type="html">Swing</title><link href="/2017/03/23/swing.html" rel="alternate" type="text/html" title="Swing" /><published>2017-03-23T00:00:00+01:00</published><updated>2017-03-23T00:00:00+01:00</updated><id>/2017/03/23/swing</id><content type="html" xml:base="/2017/03/23/swing.html">&lt;p&gt;&lt;em&gt;Swing&lt;/em&gt; is a new music interface installation featuring a swinging lattern with elastics. It soundifies locations, acceleration, and also elasticity.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/210139899&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Filmed by Kinsa Durst&lt;/p&gt;
+
+&lt;p&gt;Edited by Zhang Zhan&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Swing&lt;/em&gt; is my final project for NIME class at NYU Shanghai. It is an update of my previous project, Balls, based on p5.js and a mobile device that has the built-in accelerometer. I wanted to this it a step further by replacing p5.js with MAX/Msp as the sound generating platform and adding another physical object to amplify the movement triggering aspect of the project.&lt;/p&gt;
+
+&lt;p&gt;In this project, a phone is placed inside of the lantern with diecut pattern. The lantern is hung by an elastic string. The built-in accelerometer sends current X, Y, Z value to MAX/Msp patch via Open Sound Control. The patch triggers three different sounds with three separate gate/threshold on each of X, Y, Z data. Through this piece, I am trying to soundify the relative movement of an object with the intervention of elastic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/swing-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Swing is a new music interface installation featuring a swinging lattern with elastics. It soundifies locations, acceleration, and also elasticity.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/swing-featured-image.jpg" /></entry><entry><title type="html">DISTANCE</title><link href="/2017/03/01/distance.html" rel="alternate" type="text/html" title="DISTANCE" /><published>2017-03-01T00:00:00+01:00</published><updated>2017-03-01T00:00:00+01:00</updated><id>/2017/03/01/distance</id><content type="html" xml:base="/2017/03/01/distance.html">&lt;p&gt;&lt;em&gt;DISTANCE&lt;/em&gt; is inspired from a quote about the Moon and chinese poems I like where the Moon is romanticized as people’s beloved ones who are far away. In this project, users are able to get the distance between where they are and where their beloved ones are by entering two locations, and a visual comparison of their distance to the moon and the distance to the beloved ones will follow.&lt;/p&gt;
+
+&lt;p&gt;Project Demo: &lt;a href=&quot;/distance/&quot; target=&quot;_blank&quot;&gt;DISTANCE&lt;/a&gt;(for a better experience, please open the link in Google Chrome)&lt;/p&gt;
+
+&lt;p&gt;There is this quote that I heard of before and to be honest I don’t remember exact words-it is basically saying no matter how far apart two people are, compared to the distance between earth and moon, it is a lot easier for the two to meet than one of them going to the moon. This might sound ridiculous, however, this quote reminded me of the common approach that many ancient Chinese poets used to express that they were longing for faraway beloved in their masterpieces. It can be summarized as “though we are far apart, both looking at the moon, and it de facto makes us closer to each other”.&lt;/p&gt;
+
+&lt;p&gt;This is my basic basic wireframe sketch for the webpage.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/distance-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On the main ”DISTANCE” page, users need to type in two locations, and on click, google map javascript api will return the distance. Once the distance is received, it will show up next to the location input area along with a “COMPARE” button. The “COMPARE” button will lead you to the COMPARE page where you get to see two scaled lines according to the actual  of distance between moon and earth and the distance between two places users input earlier. The third page is a simple about-this-project page.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/distance-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Three buttons at the bottom of these three pages, about, distance, and my portfolio, so that users have to input locations and then go to compare page.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/distance-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/distance-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Distance data is being passed to COMPARE page from DISTANCE/main page through “?d=xxxx” at the end of the URL.&lt;/p&gt;
+
+&lt;p&gt;I used three.js and Google map javascript api in this project.&lt;/p&gt;
+
+&lt;p&gt;天涯咫尺 :)&lt;/p&gt;
+
+&lt;p&gt;Credits:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/CoryG89/MoonDemo&quot; target=&quot;_blank&quot;&gt;https://github.com/CoryG89/MoonDemo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://aerotwist.com/tutorials/getting-started-with-three-js/&quot; target=&quot;_blank&quot;&gt;https://aerotwist.com/tutorials/getting-started-with-three-js/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.howtojs.org/getting-started-with-three-js-3d-earth-part-ii/&quot; target=&quot;_blank&quot;&gt;http://www.howtojs.org/getting-started-with-three-js-3d-earth-part-ii/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://learningthreejs.com/blog/2013/09/16/how-to-make-the-earth-in-webgl/&quot; target=&quot;_blank&quot;&gt;http://learningthreejs.com/blog/2013/09/16/how-to-make-the-earth-in-webgl/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mattloftus.github.io/2016/02/03/threejs-p2/&quot; target=&quot;_blank&quot;&gt;https://mattloftus.github.io/2016/02/03/threejs-p2/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">DISTANCE is inspired from a quote about the Moon and chinese poems I like where the Moon is romanticized as people’s beloved ones who are far away. In this project, users are able to get the distance between where they are and where their beloved ones are by entering two locations, and a visual comparison of their distance to the moon and the distance to the beloved ones will follow.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/distance-featured-image.jpg" /></entry><entry><title type="html">Thirstea</title><link href="/2016/12/12/thirstea.html" rel="alternate" type="text/html" title="Thirstea" /><published>2016-12-12T00:00:00+01:00</published><updated>2016-12-12T00:00:00+01:00</updated><id>/2016/12/12/thirstea</id><content type="html" xml:base="/2016/12/12/thirstea.html">&lt;p&gt;Thirstea is a tea plant that feeds on the attention it gets on social media. The project is made up of a plant of tea tree and an irrigation system that is hooked to a Twitter bot and a webcam. The twitter bot will tweet about the growth of the plant every day with photos of the plant.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/195745514&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/195745514&quot;&gt;Thirstea&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
@@ -31,32 +498,7 @@
 &lt;img src=&quot;/images/thirstea-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/thirstea-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/thirstea-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/thirstea-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">Thirstea is a tea plant that feeds on the attention it gets on social media. The project is made up of a plant of tea tree and an irrigation system that is hooked to a Twitter bot and a webcam. The twitter bot will tweet about the growth of the plant every day with photos of the plant.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/thirstea-featured-image.jpg" /></entry><entry><title type="html">A Song Without Words</title><link href="/2016/12/12/a-song-without-words.html" rel="alternate" type="text/html" title="A Song Without Words" /><published>2016-12-12T00:00:00+01:00</published><updated>2016-12-12T00:00:00+01:00</updated><id>/2016/12/12/a-song-without-words</id><content type="html" xml:base="/2016/12/12/a-song-without-words.html">&lt;p&gt;A Song Without Words is an interactive dance piece using Kinect with projection of visuals created according to the body movement sensed by Kinect.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/195400876&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/195400876&quot;&gt;A Song Without Words&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Dancer and choreographer: Ann Yang&lt;/p&gt;
-
-&lt;p&gt;Music: Sandy Lam - 无言歌&lt;/p&gt;
-
-&lt;p&gt;Filmed by Jingyi Sun, Maggie Walsh and Zhang Zhan&lt;/p&gt;
-
-&lt;p&gt;Editted by Zhang Zhan&lt;/p&gt;
-
-&lt;p&gt;This dance piece is a visual response to the song, 无言歌, by Sandy Lam. My friend, Ann Yang, a talented dancer, choreographed this dance under my general guideline. There are four stages in the dance performance–birth, accumulation, explosion, and decay. Each stage is represented by different visual effects such as point cloud, particle explosion system, particle ring, and particles collapsing. The main point cloud figure is the live visual resemblance of the dancer, and the dancer also react to the visuals by modifying her dance routines based on what the visual is created by her previous movements and positions.&lt;/p&gt;
-
-&lt;p&gt;Thanks to Prof. JH Moon for letting me use his Mac Pro, keyboard, track pad, his screen, and the speaker. The visuals are created in a processing sketch with a control panel. Visuals are sent to Arena with syphon, but the control panel is not sent to the Arena so that I can do live control including particle speed, color gradience, transition over the visuals. A Kinect is used to sense the depth and capture the shape of the object within the sensing range. The explosion and particles is attracted by the closest point within the sensing area.&lt;/p&gt;
-
-&lt;p&gt;Special thanks to Prof. JH Moon, Jingyi Sun and Maggie Walsh.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/a-song-without-words-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/a-song-without-words-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/a-song-without-words-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/a-song-without-words-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/a-song-without-words-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/a-song-without-words-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/a-song-without-words-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">A Song Without Words is an interactive dance piece using Kinect with projection of visuals created according to the body movement sensed by Kinect.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/a-song-without-words-featured-image.jpg" /></entry><entry><title type="html">Above The Sea</title><link href="/2016/12/12/above-the-sea.html" rel="alternate" type="text/html" title="Above The Sea" /><published>2016-12-12T00:00:00+01:00</published><updated>2016-12-12T00:00:00+01:00</updated><id>/2016/12/12/above-the-sea</id><content type="html" xml:base="/2016/12/12/above-the-sea.html">&lt;p&gt;Project Demo: &lt;a href=&quot;/p5-above-the-sea/&quot; target=&quot;_blank&quot;&gt;Above The Sea – Shanghai&lt;/a&gt; (for a better experience, please open the link in Google Chrome)&lt;/p&gt;
+&lt;img src=&quot;/images/thirstea-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Thirstea is a tea plant that feeds on the attention it gets on social media. The project is made up of a plant of tea tree and an irrigation system that is hooked to a Twitter bot and a webcam. The twitter bot will tweet about the growth of the plant every day with photos of the plant.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/thirstea-featured-image.jpg" /></entry><entry><title type="html">Above The Sea</title><link href="/2016/12/12/above-the-sea.html" rel="alternate" type="text/html" title="Above The Sea" /><published>2016-12-12T00:00:00+01:00</published><updated>2016-12-12T00:00:00+01:00</updated><id>/2016/12/12/above-the-sea</id><content type="html" xml:base="/2016/12/12/above-the-sea.html">&lt;p&gt;Project Demo: &lt;a href=&quot;/p5-above-the-sea/&quot; target=&quot;_blank&quot;&gt;Above The Sea – Shanghai&lt;/a&gt; (for a better experience, please open the link in Google Chrome)&lt;/p&gt;
 
 &lt;p&gt;Above The Sea translates weather forecast data(sea level and main weather condition) of a certain city into notes and chords and visualizes the data in a column system in p5. After being laser cut onto the clear acrylic board, the songs about the sea level and weather above the sea can be played on a record player.&lt;/p&gt;
 
@@ -102,7 +544,32 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/above-the-sea-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/above-the-sea-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/above-the-sea-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">Project Demo: Above The Sea – Shanghai (for a better experience, please open the link in Google Chrome)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/above-the-sea-featured-image.jpg" /></entry><entry><title type="html">Shy Mirror</title><link href="/2016/12/05/shy-mirror.html" rel="alternate" type="text/html" title="Shy Mirror" /><published>2016-12-05T00:00:00+01:00</published><updated>2016-12-05T00:00:00+01:00</updated><id>/2016/12/05/shy-mirror</id><content type="html" xml:base="/2016/12/05/shy-mirror.html">&lt;p&gt;Shy Mirror is the final project for Interactive Installation class created by Alexis Zerafa, Xiran Yang and me. Shy Mirror is a mirror that gently rotates 90 degrees when someone is in front of it, therefore the participant can not see his own reflection in the mirror.&lt;/p&gt;
+&lt;img src=&quot;/images/above-the-sea-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Project Demo: Above The Sea – Shanghai (for a better experience, please open the link in Google Chrome)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/above-the-sea-featured-image.jpg" /></entry><entry><title type="html">A Song Without Words</title><link href="/2016/12/12/a-song-without-words.html" rel="alternate" type="text/html" title="A Song Without Words" /><published>2016-12-12T00:00:00+01:00</published><updated>2016-12-12T00:00:00+01:00</updated><id>/2016/12/12/a-song-without-words</id><content type="html" xml:base="/2016/12/12/a-song-without-words.html">&lt;p&gt;A Song Without Words is an interactive dance piece using Kinect with projection of visuals created according to the body movement sensed by Kinect.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/195400876&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/195400876&quot;&gt;A Song Without Words&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dancer and choreographer: Ann Yang&lt;/p&gt;
+
+&lt;p&gt;Music: Sandy Lam - 无言歌&lt;/p&gt;
+
+&lt;p&gt;Filmed by Jingyi Sun, Maggie Walsh and Zhang Zhan&lt;/p&gt;
+
+&lt;p&gt;Editted by Zhang Zhan&lt;/p&gt;
+
+&lt;p&gt;This dance piece is a visual response to the song, 无言歌, by Sandy Lam. My friend, Ann Yang, a talented dancer, choreographed this dance under my general guideline. There are four stages in the dance performance–birth, accumulation, explosion, and decay. Each stage is represented by different visual effects such as point cloud, particle explosion system, particle ring, and particles collapsing. The main point cloud figure is the live visual resemblance of the dancer, and the dancer also react to the visuals by modifying her dance routines based on what the visual is created by her previous movements and positions.&lt;/p&gt;
+
+&lt;p&gt;Thanks to Prof. JH Moon for letting me use his Mac Pro, keyboard, track pad, his screen, and the speaker. The visuals are created in a processing sketch with a control panel. Visuals are sent to Arena with syphon, but the control panel is not sent to the Arena so that I can do live control including particle speed, color gradience, transition over the visuals. A Kinect is used to sense the depth and capture the shape of the object within the sensing range. The explosion and particles is attracted by the closest point within the sensing area.&lt;/p&gt;
+
+&lt;p&gt;Special thanks to Prof. JH Moon, Jingyi Sun and Maggie Walsh.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/a-song-without-words-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/a-song-without-words-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">A Song Without Words is an interactive dance piece using Kinect with projection of visuals created according to the body movement sensed by Kinect.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/a-song-without-words-featured-image.jpg" /></entry><entry><title type="html">Shy Mirror</title><link href="/2016/12/05/shy-mirror.html" rel="alternate" type="text/html" title="Shy Mirror" /><published>2016-12-05T00:00:00+01:00</published><updated>2016-12-05T00:00:00+01:00</updated><id>/2016/12/05/shy-mirror</id><content type="html" xml:base="/2016/12/05/shy-mirror.html">&lt;p&gt;Shy Mirror is the final project for Interactive Installation class created by Alexis Zerafa, Xiran Yang and me. Shy Mirror is a mirror that gently rotates 90 degrees when someone is in front of it, therefore the participant can not see his own reflection in the mirror.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/194319808&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/194319808&quot;&gt;Shy Mirror&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
@@ -135,7 +602,25 @@
 &lt;img src=&quot;/images/shy-mirror-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/shy-mirror-13.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/shy-mirror-14.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/shy-mirror-15.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">Shy Mirror is the final project for Interactive Installation class created by Alexis Zerafa, Xiran Yang and me. Shy Mirror is a mirror that gently rotates 90 degrees when someone is in front of it, therefore the participant can not see his own reflection in the mirror.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/shy-mirror-featured-image.jpg" /></entry><entry><title type="html">Pop &amp;amp; Poem Typewriter</title><link href="/2016/10/04/pop-and-poem-typewriter.html" rel="alternate" type="text/html" title="Pop &amp; Poem Typewriter" /><published>2016-10-04T00:00:00+02:00</published><updated>2016-10-04T00:00:00+02:00</updated><id>/2016/10/04/pop-and-poem-typewriter</id><content type="html" xml:base="/2016/10/04/pop-and-poem-typewriter.html">&lt;p&gt;Project Demo: &lt;a href=&quot;/p5-pop-and-poem-typewriter/&quot; target=&quot;_blank&quot;&gt;Pop &amp;amp; Poem Typewriter&lt;/a&gt; (for a better experience, please open the link in Google Chrome)&lt;/p&gt;
+&lt;img src=&quot;/images/shy-mirror-15.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Shy Mirror is the final project for Interactive Installation class created by Alexis Zerafa, Xiran Yang and me. Shy Mirror is a mirror that gently rotates 90 degrees when someone is in front of it, therefore the participant can not see his own reflection in the mirror.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/shy-mirror-featured-image.jpg" /></entry><entry><title type="html">Little Brothers Entertainment Brochure</title><link href="/2016/10/20/little-brothers-entertainment-brochure.html" rel="alternate" type="text/html" title="Little Brothers Entertainment Brochure" /><published>2016-10-20T00:00:00+02:00</published><updated>2016-10-20T00:00:00+02:00</updated><id>/2016/10/20/little-brothers-entertainment-brochure</id><content type="html" xml:base="/2016/10/20/little-brothers-entertainment-brochure.html">&lt;p&gt;Company overview brochure design for Little Brothers Entertainment based in Shanghai.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/little-brothers-entertainment-brochure-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/little-brothers-entertainment-brochure-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/little-brothers-entertainment-brochure-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/little-brothers-entertainment-brochure-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/little-brothers-entertainment-brochure-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/little-brothers-entertainment-brochure-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/little-brothers-entertainment-brochure-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/little-brothers-entertainment-brochure-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/little-brothers-entertainment-brochure-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/little-brothers-entertainment-brochure-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/little-brothers-entertainment-brochure-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/little-brothers-entertainment-brochure-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/little-brothers-entertainment-brochure-13.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/little-brothers-entertainment-brochure-14.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/little-brothers-entertainment-brochure-15.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/little-brothers-entertainment-brochure-16.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/little-brothers-entertainment-brochure-17.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="design" /><summary type="html">Company overview brochure design for Little Brothers Entertainment based in Shanghai.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/little-brothers-entertainment-brochure-featured-image.jpg" /></entry><entry><title type="html">Pop &amp;amp; Poem Typewriter</title><link href="/2016/10/04/pop-and-poem-typewriter.html" rel="alternate" type="text/html" title="Pop &amp; Poem Typewriter" /><published>2016-10-04T00:00:00+02:00</published><updated>2016-10-04T00:00:00+02:00</updated><id>/2016/10/04/pop-and-poem-typewriter</id><content type="html" xml:base="/2016/10/04/pop-and-poem-typewriter.html">&lt;p&gt;Project Demo: &lt;a href=&quot;/p5-pop-and-poem-typewriter/&quot; target=&quot;_blank&quot;&gt;Pop &amp;amp; Poem Typewriter&lt;/a&gt; (for a better experience, please open the link in Google Chrome)&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/190374026&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/190374026&quot;&gt;Pop &amp;amp; Poem Typewriter&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
@@ -222,7 +707,7 @@
 
 &lt;p&gt;Comma - Coldplay - Every Teardrop Is a Waterfall&lt;/p&gt;
 
-&lt;p&gt;Space - Taylor Swift - Blank Space&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">Project Demo: Pop &amp;amp; Poem Typewriter (for a better experience, please open the link in Google Chrome)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pop-and-poem-typewriter-featured-image.jpg" /></entry><entry><title type="html">Project 1933</title><link href="/2016/10/03/project-1933.html" rel="alternate" type="text/html" title="Project 1933" /><published>2016-10-03T00:00:00+02:00</published><updated>2016-10-03T00:00:00+02:00</updated><id>/2016/10/03/project-1933</id><content type="html" xml:base="/2016/10/03/project-1933.html">&lt;p&gt;Project 1933, an interactive installation built for Interactive Installation class at NYU Shanghai, is responding to 1933 Slaughterhouse in Hongkou District, Shanghai.&lt;/p&gt;
+&lt;p&gt;Space - Taylor Swift - Blank Space&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Project Demo: Pop &amp;amp; Poem Typewriter (for a better experience, please open the link in Google Chrome)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pop-and-poem-typewriter-featured-image.jpg" /></entry><entry><title type="html">Project 1933</title><link href="/2016/10/03/project-1933.html" rel="alternate" type="text/html" title="Project 1933" /><published>2016-10-03T00:00:00+02:00</published><updated>2016-10-03T00:00:00+02:00</updated><id>/2016/10/03/project-1933</id><content type="html" xml:base="/2016/10/03/project-1933.html">&lt;p&gt;Project 1933, an interactive installation built for Interactive Installation class at NYU Shanghai, is responding to 1933 Slaughterhouse in Hongkou District, Shanghai.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/188636034&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/188636034&quot;&gt;Project 1933&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
@@ -252,71 +737,4 @@
 &lt;img src=&quot;/images/project-1933-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/project-1933-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/project-1933-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">Project 1933, an interactive installation built for Interactive Installation class at NYU Shanghai, is responding to 1933 Slaughterhouse in Hongkou District, Shanghai.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/project-1933-featured-image.jpg" /></entry><entry><title type="html">Airing Dirty Laundry</title><link href="/2016/10/01/airing-dirty-laundry.html" rel="alternate" type="text/html" title="Airing Dirty Laundry" /><published>2016-10-01T00:00:00+02:00</published><updated>2016-10-01T00:00:00+02:00</updated><id>/2016/10/01/airing-dirty-laundry</id><content type="html" xml:base="/2016/10/01/airing-dirty-laundry.html">&lt;p&gt;Airing Dirty Laundry is an installation that displays live streamed tweets containing the word “dirty” or “clean” via projection on a quilt made of 15 pairs of white underwear.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/189190892&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/189190892&quot;&gt;Airing Dirty Laundry&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This project echoes the English idiom “airing your dirty laundry”, which means to talk about things (usually a problem or dispute) that should be kept private. Tweets containing “dirty” appear first on the quilt with an increasing speed, and color of the tweets multiply when they overlap, which applies a dirty-looking color onto the pure white surface. After participants hit the space bar, tweets containing “clean” in white color will show up and take over the surface to “wash out” the “dirt”.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/airing-dirty-laundry-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Built for Kinetic Interface Design class at NYU Shanghai.&lt;/p&gt;
-
-&lt;p&gt;Tools: twitter4j in Processing, Syphon, MadMapper, projector, 15 pairs of white underwear, cloth rack&lt;/p&gt;
-
-&lt;p&gt;Speical thanks to Professor JH Moon and Joseph Modirzadeh&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">Airing Dirty Laundry is an installation that displays live streamed tweets containing the word “dirty” or “clean” via projection on a quilt made of 15 pairs of white underwear.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/airing-dirty-laundry-featured-image.jpg" /></entry><entry><title type="html">Shanghai Mercedes-Benz Arena Visual Identity Guide</title><link href="/2016/08/01/mba-visual-identity-guide.html" rel="alternate" type="text/html" title="Shanghai Mercedes-Benz Arena Visual Identity Guide" /><published>2016-08-01T00:00:00+02:00</published><updated>2016-08-01T00:00:00+02:00</updated><id>/2016/08/01/mba-visual-identity-guide</id><content type="html" xml:base="/2016/08/01/mba-visual-identity-guide.html">&lt;p&gt;Visual identity guide proposal for Shanghai Mercedes-Benz Arena
-&lt;img src=&quot;/images/mba-visual-identity-guide-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-13.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-14.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-15.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-16.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-17.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-18.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-19.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-20.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-21.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-22.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-23.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-24.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-25.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-26.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-27.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-28.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-29.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/mba-visual-identity-guide-30.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="design" /><summary type="html">Visual identity guide proposal for Shanghai Mercedes-Benz Arena</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/mba-visual-identity-guide-featured-image.jpg" /></entry><entry><title type="html">Jay Chou Fan Interview @ Mercedes-Benz Arena</title><link href="/2016/07/02/jay-chou-fan-interview.html" rel="alternate" type="text/html" title="Jay Chou Fan Interview @ Mercedes-Benz Arena" /><published>2016-07-02T00:00:00+02:00</published><updated>2016-07-02T00:00:00+02:00</updated><id>/2016/07/02/jay-chou-fan-interview</id><content type="html" xml:base="/2016/07/02/jay-chou-fan-interview.html">&lt;p&gt;Jay Chou fan interview videos for Shanghai Mercedes-Benz Arena digital marketing purpose. These two videos received more than half a million views on Weibo in total.&lt;/p&gt;
-
-&lt;p&gt;Film and edit by Zhang Zhan.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/180747660&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/180747660&quot;&gt;Shanghai Mercedes-Benz Arena - Jay Chou Fan Interview #1&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/180749247&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/180749247&quot;&gt;Shanghai Mercedes-Benz Arena - Jay Chou Fan Interview #2&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="videos" /><summary type="html">Jay Chou fan interview videos for Shanghai Mercedes-Benz Arena digital marketing purpose. These two videos received more than half a million views on Weibo in total.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/jay-chou-fan-interview-featured-image.jpg" /></entry><entry><title type="html">Bilibili Fan Interview @ Mercedes-Benz Arena</title><link href="/2016/07/01/bilibili-fan-interview.html" rel="alternate" type="text/html" title="Bilibili Fan Interview @ Mercedes-Benz Arena" /><published>2016-07-01T00:00:00+02:00</published><updated>2016-07-01T00:00:00+02:00</updated><id>/2016/07/01/bilibili-fan-interview</id><content type="html" xml:base="/2016/07/01/bilibili-fan-interview.html">&lt;p&gt;Bilibili fan interview videos for Shanghai Mercedes-Benz Arena digital marketing purpose.&lt;/p&gt;
-
-&lt;p&gt;Film and edit by Zhang Zhan.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/181659266&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/181659266&quot;&gt;Shanghai Mercedes-Benz Arena - Bilibili Macro Link Fan Interview&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="videos" /><summary type="html">Bilibili fan interview videos for Shanghai Mercedes-Benz Arena digital marketing purpose.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/bilibili-fan-interview-featured-image.jpg" /></entry></feed>
+&lt;img src=&quot;/images/project-1933-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Project 1933, an interactive installation built for Interactive Installation class at NYU Shanghai, is responding to 1933 Slaughterhouse in Hongkou District, Shanghai.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/project-1933-featured-image.jpg" /></entry></feed>
