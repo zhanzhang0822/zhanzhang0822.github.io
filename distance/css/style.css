@@ -1,0 +1,379 @@
+body {
+    margin: 0; 
+    font-family: raleway, 'Helvectia-Neue';
+    font-weight: 100;
+    background: black;
+    font-size: 14px;
+    align-content: center;
+}
+
+canvas {  
+    position: fixed; 
+    left: -400px  
+}
+
+.navbar {
+    width: 100%;
+    margin-left: auto ;
+    margin-right: auto ;
+    /*border:1px solid purple;*/
+}
+
+.navbar ul {
+    list-style-type: none; /*to remove bullets*/
+    text-align: center;
+    margin: 0 auto;
+    padding: 0px;
+    /*border:1px solid red;*/
+    display:table;
+    overflow: hidden;
+}
+
+#nav {
+    width:100%;
+    text-align: center;
+    /*border: 1px solid green;*/
+    position: fixed;
+    bottom:20px;
+}
+
+
+#nav li{
+    float: left;
+    padding: 0px;
+    margin-left: auto ;
+    margin-right: auto ;
+    /*border: 1px solid purple;*/
+}
+
+#nav li a{
+    color:white;
+        text-decoration: none;
+        font-weight: 500;
+}
+
+#nav li a:hover{
+    color:#18ffff;
+}
+
+h1 a{
+    left: 50px;
+    position: fixed;
+    top:20px;
+    width: 100%;
+    /*border: 1px solid blue;*/
+    position: fixed;
+    color:white;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+h1 a:hover{
+    color:#18ffff;
+}
+
+h2{
+    /*border: 1px solid blue;*/
+    color:white;
+    font-weight: 100;
+    margin: 0;
+}
+
+h3{
+    color:white;
+    font-weight: 100;
+}
+
+#aboutPara{
+    margin:200px 100px 100px 50px;    
+    max-width: 400px;
+    position: relative;
+
+}
+
+input{
+    border: none;
+    border-bottom: 1px solid #18ffff;
+    background-color: black;
+    margin-top: 5px;
+    width: 300px;
+    height:30px;
+    color:white;
+    font-style: italic;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+#inputForm{
+    left: 50px;
+    /*border: 1px solid yellow;*/
+    color:white;
+    font-weight: 100;
+}
+
+#distForm{
+    margin-right: 50px;
+    max-width:600px;
+    /*border: 1px solid green;*/
+    position: fixed;
+    color:white;
+    left: 38%;
+    font-weight: 100;  
+    font-size: 30px; 
+}
+
+#calculatedDist{
+    width:150px;
+    margin-top: 0px;
+    font-weight: 500;
+    font-size: 30px;
+    /*border: 1px solid orange;*/
+    float: left;
+    display:inline-block;
+}
+
+#km{
+    width: 40px;
+    /*border: 1px solid silver;*/
+    float:left;
+}
+
+br{
+    line-height: 16px;
+}
+
+button{
+    border: 1px solid #18ffff;
+    color: white;
+    text-transform: uppercase;
+    background-color: transparent;
+    width: 300px;
+    height: 30px;
+    font-family: raleway;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+#compareButton{
+    margin-top: 46px;
+    display: inline-block;
+    float: left;
+    clear: both;
+}
+
+
+button:hover{
+    cursor: pointer; 
+    color: black;
+    background-color:#18ffff; 
+    text-transform: uppercase;
+}
+
+#moonDist{
+    height: 40px;
+    position: fixed;
+    top: 40%;
+    right: 100px;
+    border:0;
+    color:white;
+    text-align:right;
+    font-size: 20px;
+    margin-left:20px;
+}
+
+#moonDistLine{
+    width:961px;
+    height: 40px;
+    position: fixed;
+    top: 42%;
+    right: 100px;
+    border:0;
+    border-bottom: 1px solid #18ffff;
+}
+
+
+#yourDist{
+    height: 40px;
+    position: fixed;
+    top: 60%;
+    right: 100px;
+    color:white;
+    text-align:right;
+    font-size: 20px;
+}
+
+#yourDistLine{
+    height: 40px;
+    position: fixed;
+    top: 62%;
+    right: 100px;
+    border:0;
+    border-bottom: 2px solid #FF1744;
+    margin-left:20px;
+}
+
+.stretchRight{
+    -webkit-animation-name: stretchRight;
+    -webkit-animation-duration: 2s;	
+    -webkit-animation-timing-function: ease-out;	
+    -webkit-transform-origin: 0% 0%;
+}
+
+@-webkit-keyframes stretchRight {
+    0% {
+        transform: scaleX(0.1);
+    }
+    100% {
+        transform: scaleX(1);
+    }				
+}
+
+.fadeIn   {
+    -webkit-animation: fadeIn 2s;
+}
+
+@-webkit-keyframes fadeIn {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+@media screen{
+    #container{
+        width:100%;
+    }
+    .tab{
+        width:33%;
+    }
+    canvas{
+
+    }
+
+    #inputForm{
+        top: 30%;
+        left: 50px;
+        position: fixed;
+    }
+    #distForm{
+        min-width:600px;
+        /*border: 1px solid green;*/
+        position: fixed;
+        color:white;
+        top: 30%;
+        margin-right: 100px;
+    }
+
+}
+
+@media screen and (max-width:1050px){
+    #inputForm{
+        left: 50px;
+        display: inline-block;
+        position: relative;
+        margin-top:200px;
+    }
+    #distForm{
+        position: relative;
+        /*border: 1px solid green;*/
+        color:white;
+        left: 50px;
+        font-weight: 100;  
+        font-size: 24px;
+        display: inline-block;
+        margin-top:80px;
+        margin-bottom: 30px;
+        max-width: 600px;
+        margin-right:200px;
+    } 
+    #calculatedDist{
+        font-size: 24px;
+    }
+
+}
+
+
+@media screen and (max-width:640px){
+    #container{
+        width:100%;
+    }
+    .tab {
+        width: 100%;
+    }
+    #nav {
+        text-align: right;
+    }
+    .navbar li a{
+        padding-right: 30px;
+    }
+    canvas{
+        position: relative; 
+        left: -10%;  
+    }
+    #inputForm{
+        left: 50px;
+        display: inline-block;
+        position: relative;
+        margin-top:200px;
+    }
+    #distForm{
+        min-width:0px;
+        max-width:500px;
+        /*border: 1px solid green;*/
+        color:white;
+        left: 50px;
+        font-weight: 100;  
+        font-size: 24px;
+        display: inline-block;
+        margin-bottom: 30px;
+        margin-right: 100px;
+        position: relative;
+    }
+    #calculatedDist{
+        font-size: 24px;
+    }
+
+    #moonDistLine{
+        width:5px;
+        height: 961px;
+        position: fixed;
+        top: 10%;
+        left: 50px;
+        border:0;
+        border-left: 1px solid #18ffff;
+    }
+
+    #moonDist{
+        height: auto;
+        width:50px;
+        position: fixed;
+        top: 10%;
+        left: 55px;
+        border:0;
+        color:white;
+        text-align:left;
+        margin-left:10px;
+        font-size:20px;
+    }
+
+    #yourDist{
+        height: auto;
+        width:50px;
+        position: fixed;
+        top: 10%;
+        left: 225px;
+        border:0;
+        color:white;
+        text-align:left;
+        margin-left:10px;
+        font-size:20px;
+    }
+
+    #yourDistLine{
+        width: 5px;
+        position: fixed;
+        top: 10%;
+        left: 200px;
+        border:0;
+        border-left: 2px solid #FF1744;
+    }
+}
+

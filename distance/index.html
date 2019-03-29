@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset=utf-8>
+        <title>Distance</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <script src="js/jquery-3.2.0.min.js"></script>
+        <script src="http://maps.google.com/maps/api/js?key=AIzaSyAv5NkmT8WvKa6Ydl-RL9KYrDGusuB-cA8"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    </head>
+
+    <body>
+
+        <div id="container">
+            <h1 id="title"><a href="index.html">DISTANCE</a></h1>
+
+            <div id="HUD">
+                <div id="inputForm">
+                    <h2 class="inputIns">where are you?</h2>
+                    <input type="text" id="orgBox" class="inputBox" />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <h2 class="inputIns">where is he/she/they?</h2>
+                    <input type="text" id="desBox" class="inputBox"/>
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <button id="submitButton" class="inputIns">get distance</button>
+                </div>
+
+                <div id="distForm">
+                    <h2>the distance between you and he/she/they is </h2>
+                    <br />
+                    <div id="calculatedDist"></div>
+                    <div id="km">km</div>
+                    <button id="compareButton" class="inputIns">Compare distance</button>
+                </div>
+            </div>
+
+
+
+
+            <script>
+                var origin;
+                var destination;
+                var orgLat;
+                var orgLng;
+                var desLat;
+                var desLng;
+                var distance;
+                var geocoder;
+                var getOrigin;
+                var getDestination;
+                var compAdd;
+
+                $("#submitButton").mousedown(function(){
+                    origin = $("#orgBox").val();
+                    destination = $("#desBox").val();
+                    getLatLng(origin, destination);
+                    $("#distForm").fadeIn(2000);
+                });
+
+                function getLatLng(orig, desti){
+                    geocoder = new google.maps.Geocoder();
+                    var result = "";
+                    geocoder.geocode( { 'address': orig}, function(results, status) {
+                        if (status == google.maps.GeocoderStatus.OK) {
+                            orgLat = results[0].geometry.location.lat();
+                            orgLng = results[0].geometry.location.lng();
+                            console.log("orgLat: " + orgLat);
+                            console.log("orgLng: " + orgLng);
+                            getOrigin = true;
+                        } else {
+                            result = "Unable to find address: " + status;
+                            getOrigin = false;
+                        }
+                    });
+
+                    geocoder.geocode( { 'address': desti}, function(results, status) {
+                        if (status == google.maps.GeocoderStatus.OK) {
+                            desLat = results[0].geometry.location.lat();
+                            desLng = results[0].geometry.location.lng();
+                            console.log("desLat: " + desLat);
+                            console.log("desLng: " + desLng);
+                            getDestination = true;
+                        } else {
+                            result = "Unable to find address: " + status;
+                            getDestination = false;
+                        }
+
+                        if(getOrigin && getDestination){
+                            getDistanceFromLatLonInKm(orgLat,orgLng,desLat,desLng);
+                            getOrigin = false;
+                            getDestination = false;
+                        }
+                    });
+
+                }
+
+                function getDistanceFromLatLonInKm(orgLat,orgLng,desLat,desLng) {
+                    // if (!isNaN(orgLat) && !isNaN(orgLng) && !isNaN(desLat) && !isNaN(desLng)) {
+                    var R = 6371; // Radius of the earth in km
+                    var dLat = deg2rad(desLat-orgLat);  // deg2rad below
+                    var dLng = deg2rad(desLng-orgLng); 
+                    var a = Math.sin(dLat/2) * Math.sin(dLat/2) + Math.cos(deg2rad(orgLat)) * Math.cos(deg2rad(desLat)) * Math.sin(dLng/2) * Math.sin(dLng/2); 
+                    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a)); 
+                    distance = R * c; // Distance in km
+                    distance = distance.toFixed(2);
+                    console.log(distance);
+
+                    $("#calculatedDist").fadeOut(1,function(){
+                        $(this).text(distance).fadeIn(999);
+                    });
+                    //document.getElementById('calculatedDist').innerHTML = distance;
+                    compAdd = "compare.html?d=" + distance;
+
+                    console.log(compAdd);
+                    $("#nav3 a").prop("href", compAdd);
+                    $("#compareButton a").prop("href", compAdd);
+
+                    if (distance == 0.00){
+                        $("#compareButton").hide(); 
+                    } else {
+                        $("#compareButton").fadeIn(1000); 
+
+                    }
+                }
+
+                function deg2rad(deg) {
+                    return deg * (Math.PI/180);
+                }
+
+
+            </script>
+
+            <br/>
+
+            <div class="navbar">
+                <ul id="nav">
+                    <li class="tab" id="nav1"><a href="about.html">ABOUT</a></li>
+                    <li class="tab" id="nav2"><a href="index.html">DISTANCE</a></li>
+                    <li class="tab" id="nav3"><a href="http://zhangzhan.work" target="_blank">PORTFOLIO</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+
+            $(document).ready(function(){
+                $("#distForm").hide(); 
+            });
+
+
+            $("#compareButton").mousedown(function(){
+                window.location = compAdd;
+
+            });
+
+
+
+        </script>
+    </body>
+</html>
