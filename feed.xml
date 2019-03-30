@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-03-29T19:43:25+01:00</updated><id>/feed.xml</id><title type="html">Zhang Zhan</title><entry><title type="html">Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital</title><link href="/2017/05/01/exposed-and-interlaced.html" rel="alternate" type="text/html" title="Exposed &amp; Interlaced – Exploring Motion in Analog and Digital" /><published>2017-05-01T00:00:00+02:00</published><updated>2017-05-01T00:00:00+02:00</updated><id>/2017/05/01/exposed-and-interlaced</id><content type="html" xml:base="/2017/05/01/exposed-and-interlaced.html">&lt;p&gt;&lt;em&gt;Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital&lt;/em&gt; is a sequence of imaging chronicling a dance performance into 10 different fragments. The viewer will be able to view each fragment as a long exposure film print, as a representation of analog means, and an interactive lenticular that will allow the viewer to see a short video clip by changing their perspective, as a representation of digital means. The fragments will be displayed sequentially to communicate the entire dance performance.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-03-30T23:09:01+01:00</updated><id>/feed.xml</id><title type="html">Zhang Zhan</title><entry><title type="html">Digital Design for the Central Registrar’s Office of Turin (ongoing)</title><link href="/2019/02/28/degital-design-for-the-central-registrars-office-of-turin.html" rel="alternate" type="text/html" title="Digital Design for the Central Registrar's Office of Turin (ongoing)" /><published>2019-02-28T00:00:00+01:00</published><updated>2019-02-28T00:00:00+01:00</updated><id>/2019/02/28/degital-design-for-the-central-registrars-office-of-turin</id><content type="html" xml:base="/2019/02/28/degital-design-for-the-central-registrars-office-of-turin.html">&lt;p&gt;&lt;em&gt;Digital Design for the Central Registrar’s Office of Turin&lt;/em&gt; is a group project of a semsester-long design studio course of the master program of Digital and Interaction Design, at Politecnico di Milano. I am in the team with Alessandro Ceriani, Malte Simon Christensen, Sarah Anna Melanie Kraanen, and Irina Nikulina.&lt;/p&gt;
+
+&lt;p&gt;“Italian bureaucrats would appear to love red tape and have invented official papers and stamps for every possible occasion and purpose. Just finding the right office is a challenge and when you finally locate it, it’s invariably closed (many offices open on a few days per week for a couple of hours only). You even need documents to obtain other documents and the laws governing the issue and use of these documents are frequently incomprehensible.”&lt;/p&gt;
+
+&lt;p&gt;Whether being a stereotype or not, this paragraph from &lt;a href=&quot;https://www.justlanded.com/english/Italy/Italy-Guide/Visas-Permits/Bureaucracy&quot; target=&quot;_blank&quot;&gt;one of the “Italy Guides”&lt;/a&gt; adequately summarizes outsiders’ views on and general reputation of Italian bureaucrats. With the unique yet extremely fundamental function, the Central Registrar’s Office of Turin is not an exception—long wait, insufficiency, chaos, incomprehensibility are what visitors are going through when they visit the site. The overall experience seems simply painful. With the trend of improving citizen’s overall experience within public sectors by implementing digitization around the world, the Central Registrar’s Office of Turin is definitely falling behind.&lt;/p&gt;
+
+&lt;p&gt;In this project, we begin with context analysis to identify user’s and employee’s needs and allocate touchpoints. Then we rely on User Centred Design approach based on a process of design-evaluation-redesign of the digital touchpoints of the Central Registrar’s Office of Turin. They are followed by development and implementation. In the project’s final piloting and integration phase, we test the developed services with a pilot and integrating them with the existing systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/swing-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-13.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-14.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-15.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-16.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-17.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-18.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-19.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-20.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-21.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-22.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-23.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-24.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-25.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-26.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-27.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-28.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-29.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-30.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-31.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-32.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-33.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-34.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-35.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-36.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-37.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="design" /><summary type="html">Digital Design for the Central Registrar’s Office of Turin is a group project of a semsester-long design studio course of the master program of Digital and Interaction Design, at Politecnico di Milano. I am in the team with Alessandro Ceriani, Malte Simon Christensen, Sarah Anna Melanie Kraanen, and Irina Nikulina. “Italian bureaucrats would appear to love red tape and have invented official papers and stamps for every possible occasion and purpose. Just finding the right office is a challenge and when you finally locate it, it’s invariably closed (many offices open on a few days per week for a couple of hours only). You even need documents to obtain other documents and the laws governing the issue and use of these documents are frequently incomprehensible.”</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/digital-design-turin-featured-image.jpg" /></entry><entry><title type="html">Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital</title><link href="/2017/05/01/exposed-and-interlaced.html" rel="alternate" type="text/html" title="Exposed &amp; Interlaced – Exploring Motion in Analog and Digital" /><published>2017-05-01T00:00:00+02:00</published><updated>2017-05-01T00:00:00+02:00</updated><id>/2017/05/01/exposed-and-interlaced</id><content type="html" xml:base="/2017/05/01/exposed-and-interlaced.html">&lt;p&gt;&lt;em&gt;Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital&lt;/em&gt; is a sequence of imaging chronicling a dance performance into 10 different fragments. The viewer will be able to view each fragment as a long exposure film print, as a representation of analog means, and an interactive lenticular that will allow the viewer to see a short video clip by changing their perspective, as a representation of digital means. The fragments will be displayed sequentially to communicate the entire dance performance.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/exposed&amp;amp;interlaced-0.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
 
@@ -789,33 +833,4 @@ Kinect captured point cloud
 
 &lt;p&gt;Comma - Coldplay - Every Teardrop Is a Waterfall&lt;/p&gt;
 
-&lt;p&gt;Space - Taylor Swift - Blank Space&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Project Demo: Pop &amp;amp; Poem Typewriter (for a better experience, please open the link in Google Chrome)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pop-and-poem-typewriter-featured-image.jpg" /></entry><entry><title type="html">Project 1933</title><link href="/2016/10/03/project-1933.html" rel="alternate" type="text/html" title="Project 1933" /><published>2016-10-03T00:00:00+02:00</published><updated>2016-10-03T00:00:00+02:00</updated><id>/2016/10/03/project-1933</id><content type="html" xml:base="/2016/10/03/project-1933.html">&lt;p&gt;&lt;em&gt;Project 1933&lt;/em&gt;, an interactive installation built for Interactive Installation class at NYU Shanghai, is responding to 1933 Slaughterhouse in Hongkou District, Shanghai.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/188636034&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Video edited by Kevin Pham&lt;/p&gt;
-
-&lt;p&gt;Filmed by Zhang Zhan&lt;/p&gt;
-
-&lt;p&gt;Project by Dyadra Saulsberry, Xiran Yang, Kevin Pham and Zhang Zhan&lt;/p&gt;
-
-&lt;p&gt;1933 video credit: &lt;a href=&quot;https://www.youtube.com/watch?v=bRKGEOmG9tM&quot; target=&quot;_blank&quot;&gt;youtube.com/watch?v=bRKGEOmG9tM&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Music: &lt;a href=&quot;https://soundcloud.com/odesza/light-instrumental?in=odesza/sets/in-return-deluxe-edition-disc&quot; target=&quot;_blank&quot;&gt;Lights (Instrumental)&lt;/a&gt; by ODESZA&lt;/p&gt;
-
-&lt;p&gt;The slaughterhouse was designed by a UK designer in pre-communist Shanghai. The building now has been turned into a commercial hub for creative industries led by a local company owned by the government. Although the space was utilized as a factory and cold storage space after being abandoned as an actual slaughterhouse(correction to our statement in class that the slaughterhouse was never used for slaughter, http://www.lacasapark.com/la/2011/11/the-last- slaughterhouse-on-earth-1933-shanghai/), its unique architecture style where each floor is connected to an outer shell by interlocking ramps(“cattle walks”), bridges, and spiral staircases designed to control the flow of both people and cattle being processed through the building has become a legacy that has brought more and more contemporary elements into this space.&lt;/p&gt;
-
-&lt;p&gt;Project 1933 contains three main parts – IV bucket filled with blood while blood dripping from the lower end, a black box covered with grass on top and twined by grey tube where flows the blood collected by the funnel within the grass, and a pond surrounding the box inside which human figure kneel down. Blood echoes the original usage of this space. Black box is a simplified symbol of the space itself, however, the cattle walks that are going up gradually along the walls of the building are not simplified; instead, the tube twining the box represents since our common interest of the space is the carved cattle walks. The pond echoes with the actual pond at the space and functions as a symbol of a pool of consumerism.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/project-1933-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Project 1933, an interactive installation built for Interactive Installation class at NYU Shanghai, is responding to 1933 Slaughterhouse in Hongkou District, Shanghai.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/project-1933-featured-image.jpg" /></entry></feed>
+&lt;p&gt;Space - Taylor Swift - Blank Space&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Project Demo: Pop &amp;amp; Poem Typewriter (for a better experience, please open the link in Google Chrome)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pop-and-poem-typewriter-featured-image.jpg" /></entry></feed>
