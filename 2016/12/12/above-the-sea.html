@@ -167,7 +167,7 @@ function setup() {
 
   askOpenWeather();
   setInterval(askOpenWeather, 10 * 60 * 1000);
-    getAudioContext().resume();
+  Tone.context.resume();
 
   textFont(myFont);
   is_clear = ["C3", "E3", "G3", "C4", "E4", "C4", "G3", "E3"] //C Major
