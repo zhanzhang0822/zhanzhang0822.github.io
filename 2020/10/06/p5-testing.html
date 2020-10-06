@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Self Portrait – Zhang Zhan's Portfolio </title>
+    <title>p5-testing – Zhang Zhan's Portfolio </title>
 
         <meta charset="utf-8" />
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -9,16 +9,20 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
     
-    <meta name="description" content="Self Portrait is an installation done in Fabrica in February, 2020.
+    <meta name="description" content="
+
+
 " />
-    <meta property="og:description" content="Self Portrait is an installation done in Fabrica in February, 2020.
+    <meta property="og:description" content="
+
+
 " />
     
     <meta name="author" content="Zhang Zhan's Portfolio" />
 
     
-    <meta property="og:title" content="Self Portrait" />
-    <meta property="twitter:title" content="Self Portrait" />
+    <meta property="og:title" content="p5-testing" />
+    <meta property="twitter:title" content="p5-testing" />
     
 
     <!--[if lt IE 9]>
@@ -64,23 +68,73 @@
     <div id="main" role="main" class="container clearfix">
       <article class="post article-single-page">
   <h1>
-  		<a href="">Self Portrait</a>
-      	<div class="time"> Winter 2020 </div>
+  		<a href="">p5-testing</a>
+      	<div class="time"> Fall 2020 </div>
    </h1>
 
   <div class="entry post-single-page">
-    <p><em>Self Portrait</em> is an installation done in <a href="http://www.fabrica.it/index.php?lang=en_us" target="_blank">Fabrica</a> in February, 2020.</p>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.1.9/lib/p5.min.js"></script>
 
-<iframe src="https://player.vimeo.com/video/424848554" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
+<script>
+let gap = 15;
+let direction;
+let dirNoiScale = 0.003;
+let length = 100;
+let speed = 10000;
+let font;
+let points;
+
+function preload() {
+  font = loadFont('./AvenirNextLTPro-Demi.otf');
+}
+
+function setup() {
+  createCanvas(800, 800);
+  colorMode(HSB, 255);
+  
+   points = font.textToPoints('BYE', 130, 480, 300, {
+    sampleFactor: 0.5
+  });
+  
+  pointNum = points.length;
+}
+
+function draw() {
+  background(0);
+  //text(points.length, 100, 100);
+  // for (let y = gap; y< height; y+= gap){
+  //   for (let x = gap; x < width; x+= gap){
+  //     strokeWeight(0.5);
+  //     stroke(map(noise(x/500, y/500),0,1, 20, 50),100,255);
+  //     direction = noise((x*dirNoiScale)+millis()/speed,((y*dirNoiScale))+millis()/speed)*10;
+  //     //line(x, y, x+sin(direction)*random(length*0.95, length), y+cos(direction)*random(length*0.95, length));
+  //     line(x, y, x+sin(direction)*length, y+cos(direction)*length);
+  //   }
+  // }
+  
+  for (i = 0; i<pointNum; i++){
+    let x = points[i].x;
+   let y = points[i].y;
+    
+    strokeWeight(0.5);
+      stroke(map(noise(x/500, y/500),0,1, 20, 50),100,255);
+      direction = noise((x*dirNoiScale)+millis()/speed,((y*dirNoiScale))+millis()/speed)*10;
+      //line(x, y, x+sin(direction)*random(length*0.95, length), y+cos(direction)*random(length*0.95, length));
+      line(x, y, x+sin(direction)*length, y+cos(direction)*length);
+  }  
+}
+
+</script>
+
 
   </div>
 
   <div class="PageNavigation">
   
-    <a class="prev" href="/2020/10/06/p5-testing.html">&laquo; p5-testing</a>
-   
+   <a class="prev" href="#"></a>
   
-    <a class="next" href="/2019/10/10/virtual-reality-martian-greenhouse.html">Virtual Reality Martian Greenhouse &raquo;</a>
+  
+    <a class="next" href="/2020/02/28/self-portrait.html">Self Portrait &raquo;</a>
   
 </div>
 
@@ -131,8 +185,8 @@
 
 		ga('create', 'UA-89860025-1', 'auto');
 		ga('send', 'pageview', {
-		  'page': '/2020/02/28/self-portrait.html',
-		  'title': 'Self Portrait'
+		  'page': '/2020/10/06/p5-testing.html',
+		  'title': 'p5-testing'
 		});
 	</script>
 	<!-- End Google Analytics -->
