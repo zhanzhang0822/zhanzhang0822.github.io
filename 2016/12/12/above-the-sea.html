@@ -161,7 +161,8 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(1500, 830);
+  let canvas = createCanvas(1500, 830);
+  canvas.parent('sketch-holder');
   background(255);
 
   askOpenWeather();
