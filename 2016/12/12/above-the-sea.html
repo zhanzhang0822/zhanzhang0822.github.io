@@ -9,9 +9,9 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
     
-    <meta name="description" content="Above The Sea translates weather forecast data(sea level and main weather condition) of a certain city into notes and chords and visualizes the data in a column system in p5. After being laser cut onto the clear acrylic board, the songs about the sea level and weather above the sea can be played on a record player. This project tranforms and stores weather data in an analog way, providing a new musical interface for data-human interaction with an artistic approach.
+    <meta name="description" content="Above The Sea translates weather forecast data(sea level and main weather condition) of a certain city into notes and chords and visualizes the data in a column system in p5. After being laser cut onto the clear acrylic board, the songs about the sea level and weather above the sea can be played on a record player. This project transforms and stores weather data in an analog way, providing a new musical interface for data-human interaction with an artistic approach.
 " />
-    <meta property="og:description" content="Above The Sea translates weather forecast data(sea level and main weather condition) of a certain city into notes and chords and visualizes the data in a column system in p5. After being laser cut onto the clear acrylic board, the songs about the sea level and weather above the sea can be played on a record player. This project tranforms and stores weather data in an analog way, providing a new musical interface for data-human interaction with an artistic approach.
+    <meta property="og:description" content="Above The Sea translates weather forecast data(sea level and main weather condition) of a certain city into notes and chords and visualizes the data in a column system in p5. After being laser cut onto the clear acrylic board, the songs about the sea level and weather above the sea can be played on a record player. This project transforms and stores weather data in an analog way, providing a new musical interface for data-human interaction with an artistic approach.
 " />
     
     <meta name="author" content="Zhang Zhan's Portfolio" />
@@ -69,7 +69,9 @@
    </h1>
 
   <div class="entry post-single-page">
-    <p><em>Above The Sea</em> translates weather forecast data(sea level and main weather condition) of a certain city into notes and chords and visualizes the data in a column system in p5. After being laser cut onto the clear acrylic board, the songs about the sea level and weather above the sea can be played on a record player. This project tranforms and stores weather data in an analog way, providing a new musical interface for data-human interaction with an artistic approach.</p>
+    <p><em>Above The Sea</em> translates weather forecast data(sea level and main weather condition) of a certain city into notes and chords and visualizes the data in a column system in p5. After being laser cut onto the clear acrylic board, the songs about the sea level and weather above the sea can be played on a record player. This project transforms and stores weather data in an analog way, providing a new musical interface for data-human interaction with an artistic approach.</p>
+
+<p>Click below to play the sound.</p>
 
 <script src="https://cdn.jsdelivr.net/npm/p5@1.1.9/lib/p5.min.js"></script>
 
@@ -153,21 +155,21 @@ var c2;
 
 var myFont;
 
-var _width = 1200;
-var _height = 800;
+var _width = 700;
+var _height = 500;
 
 function preload() {
   myFont = loadFont('/p5-above-the-sea/assets/OpenSans-CondLight.ttf');
 }
 
 function setup() {
-  let canvas = createCanvas(1500, 830);
+  let canvas = createCanvas(800, 530);
   canvas.parent('sketch-holder');
   background(255);
 
   askOpenWeather();
   setInterval(askOpenWeather, 10 * 60 * 1000);
-  Tone.context.resume();
+  //Tone.context.resume();
 
   textFont(myFont);
   is_clear = ["C3", "E3", "G3", "C4", "E4", "C4", "G3", "E3"] //C Major
@@ -193,7 +195,7 @@ function setup() {
         // print(sealevel_Counter);
         var sealevel_Pos = floor(map(sealevel[currentPos], sealevel_Min, sealevel_Max, 0, sealevel_Scale.length - 1));
 
-        var sealevel_Pitch = Tone.Frequency(sealevel_Scale[sealevel_Pos]).eval();
+        var sealevel_Pitch = Tone.Frequency(sealevel_Scale[sealevel_Pos]).valueOf();
         sealevel_Synth.triggerAttackRelease(sealevel_Pitch, "2n", time);
       }
 
@@ -210,7 +212,7 @@ function setup() {
       //print(note);
 
       //var pitch = Tone.Frequency(((sealevel[currentPitch]) - 1030) * 200).eval();
-      var pitch = Tone.Frequency(note).eval();
+      var pitch = Tone.Frequency(note).valueOf();
       main_Synth.triggerAttackRelease(pitch, "8n", time);
 
       if (counter == is_clear.length) {
@@ -300,12 +302,12 @@ function isPlaying() {
 
 function drawSealevelGradient() {
   background(255);
-  c1 = color(47, 86, 233);
+  c1 = color(0, 119, 190);
   c2 = color(255);
   for (i = 0; i < weather.cnt; i++) {
     push();
     //line(unit_width * i, 500 - 5 * (sealevel[i] - 1030), unit_width * (i + 1) - 2, 500 - 5 * (sealevel[i] - 1030));
-    translate(unit_width * i, 400 - 8 * (sealevel[i] - 1040));
+    translate(unit_width * i, 100 - 8 * (sealevel[i] - 1040));
     for (var j = 0; j < 200; j++) {
       var inter = map(j, 0, 200, 0, 1);
       var c = lerpColor(c1, c2, inter);
@@ -332,6 +334,13 @@ function drawSealevelGradient() {
   }
 
 }
+
+document.documentElement.addEventListener(
+  "mousedown", function(){
+    mouse_IsDown = true;
+    if (Tone.context.state !== 'running') {
+    Tone.context.resume();
+  }})
 </script>
 </div>
 
