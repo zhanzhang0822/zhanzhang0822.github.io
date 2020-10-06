@@ -9,15 +9,9 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
     
-    <meta name="description" content="
-
-
-
+    <meta name="description" content="Pop &amp; Poem Typewriter is an interactive typewriter with pop music feedback built in p5.js. Each of the 40 Keys including A-Z(26), 0-9(10), Delete, Period, Comma, Space is linked to a small wav clip cut out from a pop song where the singer(s) spell out the letter or word. As you type a poem, a song made of those corresponding small clips will be triggered at the same time. I was looking to translate text into music to form the link between visual and aural via the contrast between letters in poem and pop music sound clips. To be honest, this project doesn’t have to involve poems, thus any text would trigger a piece of musical collage of short sound clips. I hope people could get a brand new experience of typing with the aural feedback that’s seldom happening when people type except for the monotone keyboard sound or the sounds of fingers hitting the buttons.
 " />
-    <meta property="og:description" content="
-
-
-
+    <meta property="og:description" content="Pop &amp; Poem Typewriter is an interactive typewriter with pop music feedback built in p5.js. Each of the 40 Keys including A-Z(26), 0-9(10), Delete, Period, Comma, Space is linked to a small wav clip cut out from a pop song where the singer(s) spell out the letter or word. As you type a poem, a song made of those corresponding small clips will be triggered at the same time. I was looking to translate text into music to form the link between visual and aural via the contrast between letters in poem and pop music sound clips. To be honest, this project doesn’t have to involve poems, thus any text would trigger a piece of musical collage of short sound clips. I hope people could get a brand new experience of typing with the aural feedback that’s seldom happening when people type except for the monotone keyboard sound or the sounds of fingers hitting the buttons.
 " />
     
     <meta name="author" content="Zhang Zhan's Portfolio" />
@@ -75,7 +69,9 @@
    </h1>
 
   <div class="entry post-single-page">
-    <script src="https://cdn.jsdelivr.net/npm/p5@1.1.9/lib/p5.min.js"></script>
+    <p>Pop &amp; Poem Typewriter is an interactive typewriter with pop music feedback built in p5.js. Each of the 40 Keys including A-Z(26), 0-9(10), Delete, Period, Comma, Space is linked to a small wav clip cut out from a pop song where the singer(s) spell out the letter or word. As you type a poem, a song made of those corresponding small clips will be triggered at the same time. I was looking to translate text into music to form the link between visual and aural via the contrast between letters in poem and pop music sound clips. To be honest, this project doesn’t have to involve poems, thus any text would trigger a piece of musical collage of short sound clips. I hope people could get a brand new experience of typing with the aural feedback that’s seldom happening when people type except for the monotone keyboard sound or the sounds of fingers hitting the buttons.</p>
+
+<script src="https://cdn.jsdelivr.net/npm/p5@1.1.9/lib/p5.min.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tone/14.7.61/Tone.js"></script>
 
@@ -267,7 +263,7 @@ function preload() {
 }
 
 function setup() {
-  let canvas = createCanvas(700, 500);
+  let canvas = createCanvas(730, 500);
   stroke(255, 0, 0);
   strokeWeight(weight);
   rect(0, 0, width, height);
@@ -506,8 +502,6 @@ function mousePressed() {
 }
 </script>
 </div>
-
-<p>Pop &amp; Poem Typewriter is my midterm project for Code of Music class at NYU Shanghai. Each of the 40 Keys including A-Z(26), 0-9(10), Delete, Period, Comma, Space is linked to a small wav clip cut out from a pop song where the singer(s) spell out the letter or word. As you type a poem, a song made of those corresponding small clips will be triggered at the same time. I was looking to translate text into music to form the link between visual and aural via the contrast between letters in poem and pop music sound clips. To be honest, this project doesn’t have to involve poems, thus any text would trigger a piece of musical collage of short sound clips. I hope people could get a brand new experience of typing with the aural feedback that’s seldom happening when people type except for the monotone keyboard sound or the sounds of fingers hitting the buttons.</p>
 
 <p>Song list:</p>
 
