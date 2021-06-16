@@ -440,6 +440,13 @@ li.tag {
   color: #666;
 }
 
+@media screen and (max-width: 640px) {
+  li.tag {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+}
+
 img.entry-image {
   width: 100%;
   /* you can use % */
